@@ -1,0 +1,7030 @@
+fileFormatVersion: 2
+guid: eabe5e53dd1e48e499ed531965bf2725
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5214244998875399764
+    second: Mountain_BG_0
+  - first:
+      213: 2455816072923005877
+    second: Mountain_BG_1
+  - first:
+      213: -2940278036389571967
+    second: Mountain_BG_2
+  - first:
+      213: -7202488377180695592
+    second: Mountain_BG_3
+  - first:
+      213: 3545114051027241602
+    second: Mountain_BG_4
+  - first:
+      213: 4063313815381187051
+    second: Mountain_BG_5
+  - first:
+      213: -1116138873230338975
+    second: Mountain_BG_6
+  - first:
+      213: 1530449060680245226
+    second: Mountain_BG_7
+  - first:
+      213: 6491846852886962467
+    second: Mountain_BG_8
+  - first:
+      213: 4769570029042459323
+    second: Mountain_BG_9
+  - first:
+      213: -3154024342885386766
+    second: Mountain_BG_10
+  - first:
+      213: 7720151560669554856
+    second: Mountain_BG_11
+  - first:
+      213: -4902439809666968153
+    second: Mountain_BG_12
+  - first:
+      213: -6642182948044265685
+    second: Mountain_BG_13
+  - first:
+      213: -4572497214151813394
+    second: Mountain_BG_14
+  - first:
+      213: -5782748438057242889
+    second: Mountain_BG_15
+  - first:
+      213: -7514880830071110973
+    second: Mountain_BG_16
+  - first:
+      213: -4018143961995686392
+    second: Mountain_BG_17
+  - first:
+      213: -7687914086116189874
+    second: Mountain_BG_18
+  - first:
+      213: 2621455760372667005
+    second: Mountain_BG_19
+  - first:
+      213: 1565854405902406227
+    second: Mountain_BG_20
+  - first:
+      213: -8060541269605244471
+    second: Mountain_BG_21
+  - first:
+      213: -4871350120750459059
+    second: Mountain_BG_22
+  - first:
+      213: 7837089964339596812
+    second: Mountain_BG_23
+  - first:
+      213: -8176413520254893142
+    second: Mountain_BG_24
+  - first:
+      213: 7774961732574615288
+    second: Mountain_BG_25
+  - first:
+      213: 4497940750769342624
+    second: Mountain_BG_26
+  - first:
+      213: 2480244150892916240
+    second: Mountain_BG_27
+  - first:
+      213: 3939166065588483924
+    second: Mountain_BG_28
+  - first:
+      213: -8997361740049161047
+    second: Mountain_BG_29
+  - first:
+      213: 304159034244315758
+    second: Mountain_BG_30
+  - first:
+      213: -6549099850952515471
+    second: Mountain_BG_31
+  - first:
+      213: -752183373837169637
+    second: Mountain_BG_32
+  - first:
+      213: -3716943145842615724
+    second: Mountain_BG_33
+  - first:
+      213: -8293205998944639977
+    second: Mountain_BG_34
+  - first:
+      213: 5148170429966215928
+    second: Mountain_BG_35
+  - first:
+      213: 6726796668831957897
+    second: Mountain_BG_36
+  - first:
+      213: 6073221300018066128
+    second: Mountain_BG_37
+  - first:
+      213: -3467785164748935145
+    second: Mountain_BG_38
+  - first:
+      213: -6730734243769533855
+    second: Mountain_BG_39
+  - first:
+      213: -8959415373196735651
+    second: Mountain_BG_40
+  - first:
+      213: 5233741095759441278
+    second: Mountain_BG_41
+  - first:
+      213: -807697675798176849
+    second: Mountain_BG_42
+  - first:
+      213: 1045479459945968890
+    second: Mountain_BG_43
+  - first:
+      213: 6787667979512934114
+    second: Mountain_BG_44
+  - first:
+      213: 7434710522713362284
+    second: Mountain_BG_45
+  - first:
+      213: 6291464588749821841
+    second: Mountain_BG_46
+  - first:
+      213: 6658785877761648753
+    second: Mountain_BG_47
+  - first:
+      213: 5303791464333767490
+    second: Mountain_BG_48
+  - first:
+      213: -9016550435854766521
+    second: Mountain_BG_49
+  - first:
+      213: -7251593325432370188
+    second: Mountain_BG_50
+  - first:
+      213: 9221499847118180356
+    second: Mountain_BG_51
+  - first:
+      213: -3030295493776624443
+    second: Mountain_BG_52
+  - first:
+      213: -3613971014790785775
+    second: Mountain_BG_53
+  - first:
+      213: -5386565427396510554
+    second: Mountain_BG_54
+  - first:
+      213: -7081866694681986005
+    second: Mountain_BG_55
+  - first:
+      213: -3526078522408057457
+    second: Mountain_BG_56
+  - first:
+      213: 2550222981592618628
+    second: Mountain_BG_57
+  - first:
+      213: 5687207525688491922
+    second: Mountain_BG_58
+  - first:
+      213: -1963245938698623017
+    second: Mountain_BG_59
+  - first:
+      213: -3395460829165726337
+    second: Mountain_BG_60
+  - first:
+      213: 6955483250816208876
+    second: Mountain_BG_61
+  - first:
+      213: -3059293571027898527
+    second: Mountain_BG_62
+  - first:
+      213: 8415279970258274750
+    second: Mountain_BG_63
+  - first:
+      213: 2451386360884829247
+    second: Mountain_BG_64
+  - first:
+      213: 7044539041237453646
+    second: Mountain_BG_65
+  - first:
+      213: -1494539966974705738
+    second: Mountain_BG_66
+  - first:
+      213: -4753068188540336696
+    second: Mountain_BG_67
+  - first:
+      213: 9160132334748628421
+    second: Mountain_BG_68
+  - first:
+      213: 9050022669283864509
+    second: Mountain_BG_69
+  - first:
+      213: -5032759871662377477
+    second: Mountain_BG_70
+  - first:
+      213: 4479791047099965352
+    second: Mountain_BG_71
+  - first:
+      213: -5722537307716789654
+    second: Mountain_BG_72
+  - first:
+      213: 2877177475563896057
+    second: Mountain_BG_73
+  - first:
+      213: 1400643321594635995
+    second: Mountain_BG_74
+  - first:
+      213: 8202817902314295292
+    second: Mountain_BG_75
+  - first:
+      213: 6172350878878030039
+    second: Mountain_BG_76
+  - first:
+      213: -3581920482942250463
+    second: Mountain_BG_77
+  - first:
+      213: -55180473657267405
+    second: Mountain_BG_78
+  - first:
+      213: 7545099052764081791
+    second: Mountain_BG_79
+  - first:
+      213: -8367563991018486801
+    second: Mountain_BG_80
+  - first:
+      213: -5836514935193054274
+    second: Mountain_BG_81
+  - first:
+      213: 2839156303927774122
+    second: Mountain_BG_82
+  - first:
+      213: 3888951340738804379
+    second: Mountain_BG_83
+  - first:
+      213: -6090202859206633642
+    second: Mountain_BG_84
+  - first:
+      213: -7669319519325384067
+    second: Mountain_BG_85
+  - first:
+      213: 5902454981442211913
+    second: Mountain_BG_86
+  - first:
+      213: -7427867602996867972
+    second: Mountain_BG_87
+  - first:
+      213: -8389855963795834903
+    second: Mountain_BG_88
+  - first:
+      213: -7634309552594924662
+    second: Mountain_BG_89
+  - first:
+      213: 5432311014393507644
+    second: Mountain_BG_90
+  - first:
+      213: -2887034156729346089
+    second: Mountain_BG_91
+  - first:
+      213: -6539979387707641036
+    second: Mountain_BG_92
+  - first:
+      213: -7732376457503447791
+    second: Mountain_BG_93
+  - first:
+      213: 7499035052784015676
+    second: Mountain_BG_94
+  - first:
+      213: -8766834099591055423
+    second: Mountain_BG_95
+  - first:
+      213: 117156283246818405
+    second: Mountain_BG_96
+  - first:
+      213: -8167067466264069402
+    second: Mountain_BG_97
+  - first:
+      213: 6350300057178728992
+    second: Mountain_BG_98
+  - first:
+      213: 794080532850651592
+    second: Mountain_BG_99
+  - first:
+      213: 5576951742406527051
+    second: Mountain_BG_100
+  - first:
+      213: 8653816152164324363
+    second: Mountain_BG_101
+  - first:
+      213: 514390872826892514
+    second: Mountain_BG_102
+  - first:
+      213: -3357373480540611680
+    second: Mountain_BG_103
+  - first:
+      213: -1410576954212524859
+    second: Mountain_BG_104
+  - first:
+      213: 4088450836947381325
+    second: Mountain_BG_105
+  - first:
+      213: -7331836477240042865
+    second: Mountain_BG_106
+  - first:
+      213: 7414780290780112950
+    second: Mountain_BG_107
+  - first:
+      213: 6009723433359444552
+    second: Mountain_BG_108
+  - first:
+      213: -2703205866725157743
+    second: Mountain_BG_109
+  - first:
+      213: 52183063273279360
+    second: Mountain_BG_110
+  - first:
+      213: -2863388016465150459
+    second: Mountain_BG_111
+  - first:
+      213: -3130298681988905268
+    second: Mountain_BG_112
+  - first:
+      213: 6366720203053037489
+    second: Mountain_BG_113
+  - first:
+      213: -3924115379283124791
+    second: Mountain_BG_114
+  - first:
+      213: -7412566752741849632
+    second: Mountain_BG_115
+  - first:
+      213: 574712764881752490
+    second: Mountain_BG_116
+  - first:
+      213: -5769439487328999798
+    second: Mountain_BG_117
+  - first:
+      213: -5559992774362842375
+    second: Mountain_BG_118
+  - first:
+      213: 7056292847615410284
+    second: Mountain_BG_119
+  - first:
+      213: 1152606840258564527
+    second: Mountain_BG_120
+  - first:
+      213: -627027126310814581
+    second: Mountain_BG_121
+  - first:
+      213: 6744162407510577047
+    second: Mountain_BG_122
+  - first:
+      213: -8309193514554434806
+    second: Mountain_BG_123
+  - first:
+      213: 3776839231924840245
+    second: Mountain_BG_124
+  - first:
+      213: 6916193779361897320
+    second: Mountain_BG_125
+  - first:
+      213: 3163562154581784743
+    second: Mountain_BG_126
+  - first:
+      213: 1907029825254553832
+    second: Mountain_BG_127
+  - first:
+      213: -328253553123747140
+    second: Mountain_BG_128
+  - first:
+      213: -93763584235738098
+    second: Mountain_BG_129
+  - first:
+      213: -2282855521636945531
+    second: Mountain_BG_130
+  - first:
+      213: 8882650182267104067
+    second: Mountain_BG_131
+  - first:
+      213: -3341447908449840625
+    second: Mountain_BG_132
+  - first:
+      213: -7381915545020986393
+    second: Mountain_BG_133
+  - first:
+      213: -715288055668224784
+    second: Mountain_BG_134
+  - first:
+      213: 3008809215926540584
+    second: Mountain_BG_135
+  - first:
+      213: -5604649439127678312
+    second: Mountain_BG_136
+  - first:
+      213: -8491871960406136832
+    second: Mountain_BG_137
+  - first:
+      213: -4285831093392755238
+    second: Mountain_BG_138
+  - first:
+      213: -7049961635090210278
+    second: Mountain_BG_139
+  - first:
+      213: -246415580436733992
+    second: Mountain_BG_140
+  - first:
+      213: -4269462899925796499
+    second: Mountain_BG_141
+  - first:
+      213: -1948151477848411941
+    second: Mountain_BG_142
+  - first:
+      213: 9135391085651253013
+    second: Mountain_BG_143
+  - first:
+      213: 7180926479146537133
+    second: Mountain_BG_144
+  - first:
+      213: 6701618103201254429
+    second: Mountain_BG_145
+  - first:
+      213: 5097077953613192464
+    second: Mountain_BG_146
+  - first:
+      213: 8381201777410028375
+    second: Mountain_BG_147
+  - first:
+      213: -3180839779224172684
+    second: Mountain_BG_148
+  - first:
+      213: -6014281029245740169
+    second: Mountain_BG_149
+  - first:
+      213: -5063769718794100224
+    second: Mountain_BG_150
+  - first:
+      213: 1962206659717755317
+    second: Mountain_BG_151
+  - first:
+      213: -1497033500604543198
+    second: Mountain_BG_152
+  - first:
+      213: -6278159584027936017
+    second: Mountain_BG_153
+  - first:
+      213: -4307330696917044603
+    second: Mountain_BG_154
+  - first:
+      213: 2970512959124390385
+    second: Mountain_BG_155
+  - first:
+      213: 6512849739114907808
+    second: Mountain_BG_156
+  - first:
+      213: -5205136737969166653
+    second: Mountain_BG_157
+  - first:
+      213: 683670685646642815
+    second: Mountain_BG_158
+  - first:
+      213: -4593877366321398498
+    second: Mountain_BG_159
+  - first:
+      213: -8691071742719653861
+    second: Mountain_BG_160
+  - first:
+      213: 2029711100357392838
+    second: Mountain_BG_161
+  - first:
+      213: -3368030511520881869
+    second: Mountain_BG_162
+  - first:
+      213: -89442639877184918
+    second: Mountain_BG_163
+  - first:
+      213: -309686712070666071
+    second: Mountain_BG_164
+  - first:
+      213: -8103490973702224401
+    second: Mountain_BG_165
+  - first:
+      213: -585803022584085329
+    second: Mountain_BG_166
+  - first:
+      213: -7427367224952670017
+    second: Mountain_BG_167
+  - first:
+      213: 141877617916613778
+    second: Mountain_BG_168
+  - first:
+      213: 3037090230479176911
+    second: Mountain_BG_169
+  - first:
+      213: -8233374431949113398
+    second: Mountain_BG_170
+  - first:
+      213: 5891135775341871279
+    second: Mountain_BG_171
+  - first:
+      213: 8771491537943493102
+    second: Mountain_BG_172
+  - first:
+      213: -7085244955280061339
+    second: Mountain_BG_173
+  - first:
+      213: 2919560481636707774
+    second: Mountain_BG_174
+  - first:
+      213: 4263238363429635364
+    second: Mountain_BG_175
+  - first:
+      213: -316009491827940151
+    second: Mountain_BG_176
+  - first:
+      213: 8359160620582391433
+    second: Mountain_BG_177
+  - first:
+      213: 6621160298359346265
+    second: Mountain_BG_178
+  - first:
+      213: -388644925122307016
+    second: Mountain_BG_179
+  - first:
+      213: 8429888329324825833
+    second: Mountain_BG_180
+  - first:
+      213: 875364157074621234
+    second: Mountain_BG_181
+  - first:
+      213: 3002935724646878434
+    second: Mountain_BG_182
+  - first:
+      213: -9052183161882129689
+    second: Mountain_BG_183
+  - first:
+      213: -6037506212957074588
+    second: Mountain_BG_184
+  - first:
+      213: 8879225280270897503
+    second: Mountain_BG_185
+  - first:
+      213: -1257730983259022323
+    second: Mountain_BG_186
+  - first:
+      213: -3203188374217356326
+    second: Mountain_BG_187
+  - first:
+      213: 8659431084215654746
+    second: Mountain_BG_188
+  - first:
+      213: 1306003227408213740
+    second: Mountain_BG_189
+  - first:
+      213: 4834027496253212207
+    second: Mountain_BG_190
+  - first:
+      213: -7559867161976606812
+    second: Mountain_BG_191
+  - first:
+      213: 5714408677214879163
+    second: Mountain_BG_192
+  - first:
+      213: 5386221601728385285
+    second: Mountain_BG_193
+  - first:
+      213: 1835268786833899218
+    second: Mountain_BG_194
+  - first:
+      213: 3927567096585033994
+    second: Mountain_BG_195
+  - first:
+      213: -4366792122128449270
+    second: Mountain_BG_196
+  - first:
+      213: -1589602687655717613
+    second: Mountain_BG_197
+  - first:
+      213: -1868386892331700906
+    second: Mountain_BG_198
+  - first:
+      213: -9152922418783557620
+    second: Mountain_BG_199
+  - first:
+      213: -8828075627463422432
+    second: Mountain_BG_200
+  - first:
+      213: -5828603615361428931
+    second: Mountain_BG_201
+  - first:
+      213: -9201640832743053754
+    second: Mountain_BG_202
+  - first:
+      213: 6343021651892718730
+    second: Mountain_BG_203
+  - first:
+      213: -7342872216377175358
+    second: Mountain_BG_204
+  - first:
+      213: -7162033674251758914
+    second: Mountain_BG_205
+  - first:
+      213: -6238177689239416297
+    second: Mountain_BG_206
+  - first:
+      213: -7351981863991558295
+    second: Mountain_BG_207
+  - first:
+      213: 8101014362796666804
+    second: Mountain_BG_208
+  - first:
+      213: -2399203614126066019
+    second: Mountain_BG_209
+  - first:
+      213: 36293273572467211
+    second: Mountain_BG_210
+  - first:
+      213: -5586572685114619942
+    second: Mountain_BG_211
+  - first:
+      213: -1547547666489450406
+    second: Mountain_BG_212
+  - first:
+      213: 7672685189469992086
+    second: Mountain_BG_213
+  - first:
+      213: 8266260269441790815
+    second: Mountain_BG_214
+  - first:
+      213: -5031702441677433397
+    second: Mountain_BG_215
+  - first:
+      213: 6454651614648152777
+    second: Mountain_BG_216
+  - first:
+      213: 6904688030349710479
+    second: Mountain_BG_217
+  - first:
+      213: -3989573590275823154
+    second: Mountain_BG_218
+  - first:
+      213: -2512783511802061223
+    second: Mountain_BG_219
+  - first:
+      213: -6606745071208866280
+    second: Mountain_BG_220
+  - first:
+      213: -2125887113522930619
+    second: Mountain_BG_221
+  - first:
+      213: 7567806621005940094
+    second: Mountain_BG_222
+  - first:
+      213: 3698335086658620230
+    second: Mountain_BG_223
+  - first:
+      213: -6527976177284525512
+    second: Mountain_BG_224
+  - first:
+      213: -215277666931491248
+    second: Mountain_BG_225
+  - first:
+      213: 6548505391439128561
+    second: Mountain_BG_226
+  - first:
+      213: 4915313152132942535
+    second: Mountain_BG_227
+  - first:
+      213: -3124053489174170864
+    second: Mountain_BG_228
+  - first:
+      213: -8837598664952169556
+    second: Mountain_BG_229
+  - first:
+      213: 8575342998574243269
+    second: Mountain_BG_230
+  - first:
+      213: -187122849482160708
+    second: Mountain_BG_231
+  - first:
+      213: 8344203327399347915
+    second: Mountain_BG_232
+  - first:
+      213: 7465951932800138269
+    second: Mountain_BG_233
+  - first:
+      213: -6858600497814623867
+    second: Mountain_BG_234
+  - first:
+      213: -3317600188211995780
+    second: Mountain_BG_235
+  - first:
+      213: 1957285477177177895
+    second: Mountain_BG_236
+  - first:
+      213: 5040498518292444624
+    second: Mountain_BG_237
+  - first:
+      213: -3586140125959208317
+    second: Mountain_BG_238
+  - first:
+      213: -3447863996451963714
+    second: Mountain_BG_239
+  - first:
+      213: -7666415970158121810
+    second: Mountain_BG_240
+  - first:
+      213: 7255192864087839425
+    second: Mountain_BG_241
+  - first:
+      213: -5621600017899432443
+    second: Mountain_BG_242
+  - first:
+      213: -8340358655860458439
+    second: Mountain_BG_243
+  - first:
+      213: -6818607947971779781
+    second: Mountain_BG_244
+  - first:
+      213: -6424733503230044055
+    second: Mountain_BG_245
+  - first:
+      213: 940553244305343981
+    second: Mountain_BG_246
+  - first:
+      213: -6805325661139604572
+    second: Mountain_BG_247
+  - first:
+      213: -5191416984857206635
+    second: Mountain_BG_248
+  - first:
+      213: -5419703661542965066
+    second: Mountain_BG_249
+  - first:
+      213: -2119376992200640793
+    second: Mountain_BG_250
+  - first:
+      213: 4186144286734853518
+    second: Mountain_BG_251
+  - first:
+      213: 8026552270542938457
+    second: Mountain_BG_252
+  - first:
+      213: -6818332664798930139
+    second: Mountain_BG_253
+  - first:
+      213: -8465574611690900811
+    second: Mountain_BG_254
+  - first:
+      213: 180853830391468711
+    second: Mountain_BG_255
+  - first:
+      213: 7958819768971650927
+    second: Mountain_BG_0
+  - first:
+      213: -2258930214336137815
+    second: Mountain_BG_1
+  - first:
+      213: 4082406954000029091
+    second: Mountain_BG_2
+  - first:
+      213: -2409674254221156474
+    second: Mountain_BG_3
+  - first:
+      213: -8126456071961733393
+    second: Mountain_BG_4
+  - first:
+      213: 7087226691930654337
+    second: Mountain_BG_5
+  - first:
+      213: 5479041945013646424
+    second: Mountain_BG_6
+  - first:
+      213: 6133551574000077355
+    second: Mountain_BG_7
+  - first:
+      213: -6990757385101100557
+    second: Mountain_BG_8
+  - first:
+      213: 4636130805228500017
+    second: Mountain_BG_9
+  - first:
+      213: 6268741789352265197
+    second: Mountain_BG_10
+  - first:
+      213: 2469403208422598736
+    second: Mountain_BG_11
+  - first:
+      213: -8998843071760837140
+    second: Mountain_BG_12
+  - first:
+      213: 7694618423234203044
+    second: Mountain_BG_13
+  - first:
+      213: 319593754265543342
+    second: Mountain_BG_14
+  - first:
+      213: 2367003392352542893
+    second: Mountain_BG_15
+  - first:
+      213: 1064382795299659800
+    second: Mountain_BG_16
+  - first:
+      213: -5524351218306482746
+    second: Mountain_BG_17
+  - first:
+      213: 4086403825880924226
+    second: Mountain_BG_18
+  - first:
+      213: 8206181551256570702
+    second: Mountain_BG_19
+  - first:
+      213: -3077675575493552740
+    second: Mountain_BG_20
+  - first:
+      213: 1315121868694390892
+    second: Mountain_BG_21
+  - first:
+      213: -4258917843224015413
+    second: Mountain_BG_22
+  - first:
+      213: 224139252852286266
+    second: Mountain_BG_23
+  - first:
+      213: 973454883509226870
+    second: Mountain_BG_24
+  - first:
+      213: 5472186414823382684
+    second: Mountain_BG_25
+  - first:
+      213: -5749061439152950297
+    second: Mountain_BG_26
+  - first:
+      213: 7599624750790327886
+    second: Mountain_BG_27
+  - first:
+      213: 8702312042070644240
+    second: Mountain_BG_28
+  - first:
+      213: 440378947030182423
+    second: Mountain_BG_29
+  - first:
+      213: 4199119062930179708
+    second: Mountain_BG_30
+  - first:
+      213: 3401705722462732935
+    second: Mountain_BG_31
+  - first:
+      213: 4594129681306679025
+    second: Mountain_BG_32
+  - first:
+      213: 5323024166380855161
+    second: Mountain_BG_33
+  - first:
+      213: -8021920874062991484
+    second: Mountain_BG_34
+  - first:
+      213: -269167507320463724
+    second: Mountain_BG_35
+  - first:
+      213: 1008544029601961578
+    second: Mountain_BG_36
+  - first:
+      213: 6790020536119914462
+    second: Mountain_BG_37
+  - first:
+      213: 5116450751263712093
+    second: Mountain_BG_38
+  - first:
+      213: 19298043575599928
+    second: Mountain_BG_39
+  - first:
+      213: -3602232471332466593
+    second: Mountain_BG_40
+  - first:
+      213: 8302801969620320558
+    second: Mountain_BG_41
+  - first:
+      213: 2145179042481647710
+    second: Mountain_BG_42
+  - first:
+      213: 4214743819385031110
+    second: Mountain_BG_43
+  - first:
+      213: 5104211933603268708
+    second: Mountain_BG_44
+  - first:
+      213: -3679819202135935338
+    second: Mountain_BG_45
+  - first:
+      213: -300596825695374210
+    second: Mountain_BG_46
+  - first:
+      213: 7064645686128845290
+    second: Mountain_BG_47
+  - first:
+      213: -1208264221856326310
+    second: Mountain_BG_48
+  - first:
+      213: 8665291877625159746
+    second: Mountain_BG_49
+  - first:
+      213: -3232603234194662587
+    second: Mountain_BG_50
+  - first:
+      213: 6107073153264874240
+    second: Mountain_BG_51
+  - first:
+      213: -8961090825320056980
+    second: Mountain_BG_52
+  - first:
+      213: -1937607784991840906
+    second: Mountain_BG_53
+  - first:
+      213: -3422412980253432815
+    second: Mountain_BG_54
+  - first:
+      213: -8281716599456325445
+    second: Mountain_BG_55
+  - first:
+      213: 5621369288891874251
+    second: Mountain_BG_56
+  - first:
+      213: -3661554742800199309
+    second: Mountain_BG_57
+  - first:
+      213: 5471047457882752221
+    second: Mountain_BG_58
+  - first:
+      213: -6281859294527541914
+    second: Mountain_BG_59
+  - first:
+      213: 2889417569464361058
+    second: Mountain_BG_60
+  - first:
+      213: 7339288072260622495
+    second: Mountain_BG_61
+  - first:
+      213: 6915583951712234086
+    second: Mountain_BG_62
+  - first:
+      213: -2180638658661206606
+    second: Mountain_BG_63
+  - first:
+      213: 6351309085984982759
+    second: Mountain_BG_64
+  - first:
+      213: -7690000107506435202
+    second: Mountain_BG_65
+  - first:
+      213: -3897115040463357223
+    second: Mountain_BG_66
+  - first:
+      213: 4192995607334624749
+    second: Mountain_BG_67
+  - first:
+      213: -5542078501209902705
+    second: Mountain_BG_68
+  - first:
+      213: 1536858792244435881
+    second: Mountain_BG_69
+  - first:
+      213: 7236689960321600475
+    second: Mountain_BG_70
+  - first:
+      213: 6495740296957265710
+    second: Mountain_BG_71
+  - first:
+      213: -6703110329412984139
+    second: Mountain_BG_72
+  - first:
+      213: -8284436949063016533
+    second: Mountain_BG_73
+  - first:
+      213: 702377745194011071
+    second: Mountain_BG_74
+  - first:
+      213: -98643265962111226
+    second: Mountain_BG_75
+  - first:
+      213: -2805788501182844956
+    second: Mountain_BG_76
+  - first:
+      213: 6511057191381529226
+    second: Mountain_BG_77
+  - first:
+      213: -8302154685064882026
+    second: Mountain_BG_78
+  - first:
+      213: 5303190701638281362
+    second: Mountain_BG_79
+  - first:
+      213: 6006639174428436711
+    second: Mountain_BG_80
+  - first:
+      213: -4646600930657730872
+    second: Mountain_BG_81
+  - first:
+      213: -563497784939592917
+    second: Mountain_BG_82
+  - first:
+      213: -1358349332145126298
+    second: Mountain_BG_83
+  - first:
+      213: 2240102317434024439
+    second: Mountain_BG_84
+  - first:
+      213: 3306072853257773009
+    second: Mountain_BG_85
+  - first:
+      213: 2020611120221246454
+    second: Mountain_BG_86
+  - first:
+      213: -8466103837884037421
+    second: Mountain_BG_87
+  - first:
+      213: 2030011426583801820
+    second: Mountain_BG_88
+  - first:
+      213: -2448458438714180930
+    second: Mountain_BG_89
+  - first:
+      213: -4008251020697037422
+    second: Mountain_BG_90
+  - first:
+      213: -499190751581689691
+    second: Mountain_BG_91
+  - first:
+      213: -5696237913037480180
+    second: Mountain_BG_92
+  - first:
+      213: -2661195004404882086
+    second: Mountain_BG_93
+  - first:
+      213: 2503934526171328278
+    second: Mountain_BG_94
+  - first:
+      213: -359934108313932080
+    second: Mountain_BG_95
+  - first:
+      213: -6431304405479034533
+    second: Mountain_BG_96
+  - first:
+      213: 7390549624041910477
+    second: Mountain_BG_97
+  - first:
+      213: -4079905638553420855
+    second: Mountain_BG_98
+  - first:
+      213: 4279948645128961303
+    second: Mountain_BG_99
+  - first:
+      213: 4933139366601328698
+    second: Mountain_BG_100
+  - first:
+      213: 8623945705450637300
+    second: Mountain_BG_101
+  - first:
+      213: -4166209771995766129
+    second: Mountain_BG_102
+  - first:
+      213: -3460083293908781977
+    second: Mountain_BG_103
+  - first:
+      213: -340283484254333482
+    second: Mountain_BG_104
+  - first:
+      213: 7599396396484112382
+    second: Mountain_BG_105
+  - first:
+      213: -4952697141275355270
+    second: Mountain_BG_106
+  - first:
+      213: -9065204621352601725
+    second: Mountain_BG_107
+  - first:
+      213: -7960056791497962988
+    second: Mountain_BG_108
+  - first:
+      213: -2230966009046201776
+    second: Mountain_BG_109
+  - first:
+      213: -1546724788812965288
+    second: Mountain_BG_110
+  - first:
+      213: 3748305759931400528
+    second: Mountain_BG_111
+  - first:
+      213: 3370829134260390314
+    second: Mountain_BG_112
+  - first:
+      213: -7046497688429808412
+    second: Mountain_BG_113
+  - first:
+      213: 7888177369388117227
+    second: Mountain_BG_114
+  - first:
+      213: -3283835438528061092
+    second: Mountain_BG_115
+  - first:
+      213: 4828890028064453551
+    second: Mountain_BG_116
+  - first:
+      213: 4972118354897638193
+    second: Mountain_BG_117
+  - first:
+      213: -4251783138793590295
+    second: Mountain_BG_118
+  - first:
+      213: 4987198320013301380
+    second: Mountain_BG_119
+  - first:
+      213: -2163808544559184839
+    second: Mountain_BG_120
+  - first:
+      213: 2441261742247306974
+    second: Mountain_BG_121
+  - first:
+      213: -4985675949972865556
+    second: Mountain_BG_122
+  - first:
+      213: 6792206364542653371
+    second: Mountain_BG_123
+  - first:
+      213: 6111035869800568141
+    second: Mountain_BG_124
+  - first:
+      213: -6873278683026817461
+    second: Mountain_BG_125
+  - first:
+      213: -6132653437114695668
+    second: Mountain_BG_126
+  - first:
+      213: 3926332395274236578
+    second: Mountain_BG_127
+  - first:
+      213: -448752680846111858
+    second: Mountain_BG_128
+  - first:
+      213: 5503477703655791710
+    second: Mountain_BG_129
+  - first:
+      213: -3691952904188530432
+    second: Mountain_BG_130
+  - first:
+      213: -5824595549674163560
+    second: Mountain_BG_131
+  - first:
+      213: -2238685052997981789
+    second: Mountain_BG_132
+  - first:
+      213: 8670387670055631009
+    second: Mountain_BG_133
+  - first:
+      213: 5986479800337104353
+    second: Mountain_BG_134
+  - first:
+      213: 6202788835675255017
+    second: Mountain_BG_135
+  - first:
+      213: 761092294457820606
+    second: Mountain_BG_136
+  - first:
+      213: -8673655169474082329
+    second: Mountain_BG_137
+  - first:
+      213: 2490416170139803700
+    second: Mountain_BG_138
+  - first:
+      213: -2902149464265003475
+    second: Mountain_BG_139
+  - first:
+      213: 298455920236576174
+    second: Mountain_BG_140
+  - first:
+      213: -2709960327623677674
+    second: Mountain_BG_141
+  - first:
+      213: 8892503157324696201
+    second: Mountain_BG_142
+  - first:
+      213: -6102586690931857297
+    second: Mountain_BG_143
+  - first:
+      213: 7203764108684454482
+    second: Mountain_BG_144
+  - first:
+      213: 236005411946971006
+    second: Mountain_BG_145
+  - first:
+      213: 690022924918433484
+    second: Mountain_BG_146
+  - first:
+      213: 7507567566161657597
+    second: Mountain_BG_147
+  - first:
+      213: -3439817278635950658
+    second: Mountain_BG_148
+  - first:
+      213: 5573507688529804879
+    second: Mountain_BG_149
+  - first:
+      213: 6133020034681949695
+    second: Mountain_BG_150
+  - first:
+      213: 670903283911409034
+    second: Mountain_BG_151
+  - first:
+      213: 6180593808556575534
+    second: Mountain_BG_152
+  - first:
+      213: 1792340721689171557
+    second: Mountain_BG_153
+  - first:
+      213: 2584376735678512924
+    second: Mountain_BG_154
+  - first:
+      213: -5252057942529528149
+    second: Mountain_BG_155
+  - first:
+      213: 2752364026278564408
+    second: Mountain_BG_156
+  - first:
+      213: -8493419307368316652
+    second: Mountain_BG_157
+  - first:
+      213: -7655837637861631147
+    second: Mountain_BG_158
+  - first:
+      213: 6465886629337274264
+    second: Mountain_BG_159
+  - first:
+      213: 3056102512055506147
+    second: Mountain_BG_160
+  - first:
+      213: -8345824810230860659
+    second: Mountain_BG_161
+  - first:
+      213: -6450587810845832712
+    second: Mountain_BG_162
+  - first:
+      213: -7665471473346455697
+    second: Mountain_BG_163
+  - first:
+      213: 6452289794804838035
+    second: Mountain_BG_164
+  - first:
+      213: 1386310001652664039
+    second: Mountain_BG_165
+  - first:
+      213: 3459346688481005475
+    second: Mountain_BG_166
+  - first:
+      213: 968070766741475698
+    second: Mountain_BG_167
+  - first:
+      213: 8612417297495346756
+    second: Mountain_BG_168
+  - first:
+      213: 965254069181916473
+    second: Mountain_BG_169
+  - first:
+      213: 1141367721169424987
+    second: Mountain_BG_170
+  - first:
+      213: -6036220612621641288
+    second: Mountain_BG_171
+  - first:
+      213: -1643939327052340083
+    second: Mountain_BG_172
+  - first:
+      213: 1676522544951286397
+    second: Mountain_BG_173
+  - first:
+      213: 5380585751926553645
+    second: Mountain_BG_174
+  - first:
+      213: 955413501345293067
+    second: Mountain_BG_175
+  - first:
+      213: -2884522786665070223
+    second: Mountain_BG_176
+  - first:
+      213: 2877011814933058050
+    second: Mountain_BG_177
+  - first:
+      213: 1408763604026200011
+    second: Mountain_BG_178
+  - first:
+      213: -8281044401789826839
+    second: Mountain_BG_179
+  - first:
+      213: -7633837453275808963
+    second: Mountain_BG_180
+  - first:
+      213: 8290800814567233549
+    second: Mountain_BG_181
+  - first:
+      213: -5455387478224233673
+    second: Mountain_BG_182
+  - first:
+      213: 1321082625432152843
+    second: Mountain_BG_183
+  - first:
+      213: -3000197398448812402
+    second: Mountain_BG_184
+  - first:
+      213: 2249135747686307689
+    second: Mountain_BG_185
+  - first:
+      213: -7465876573193642450
+    second: Mountain_BG_186
+  - first:
+      213: 7916134398852378569
+    second: Mountain_BG_187
+  - first:
+      213: 185930983622824001
+    second: Mountain_BG_188
+  - first:
+      213: 5479659395269144203
+    second: Mountain_BG_189
+  - first:
+      213: -4499319242498201642
+    second: Mountain_BG_190
+  - first:
+      213: -7309520588892281177
+    second: Mountain_BG_191
+  - first:
+      213: 5118450003610758714
+    second: Mountain_BG_192
+  - first:
+      213: 6467509754949760026
+    second: Mountain_BG_193
+  - first:
+      213: -9190150506496810441
+    second: Mountain_BG_194
+  - first:
+      213: -2151644453941427259
+    second: Mountain_BG_195
+  - first:
+      213: 5595176995765511385
+    second: Mountain_BG_196
+  - first:
+      213: 4225591255639110254
+    second: Mountain_BG_197
+  - first:
+      213: 7324414112205249705
+    second: Mountain_BG_198
+  - first:
+      213: -5561062634630804156
+    second: Mountain_BG_199
+  - first:
+      213: 2268539369295942296
+    second: Mountain_BG_200
+  - first:
+      213: -8880250570660010567
+    second: Mountain_BG_201
+  - first:
+      213: 931538681747701153
+    second: Mountain_BG_202
+  - first:
+      213: 2980794372970523115
+    second: Mountain_BG_203
+  - first:
+      213: -5813719402828088005
+    second: Mountain_BG_204
+  - first:
+      213: -7687233875475145452
+    second: Mountain_BG_205
+  - first:
+      213: 2627312061595591003
+    second: Mountain_BG_206
+  - first:
+      213: 5105131123689236939
+    second: Mountain_BG_207
+  - first:
+      213: 7504895315280732524
+    second: Mountain_BG_208
+  - first:
+      213: -1581454480240825293
+    second: Mountain_BG_209
+  - first:
+      213: 2718916675510229271
+    second: Mountain_BG_210
+  - first:
+      213: 3099886147941500122
+    second: Mountain_BG_211
+  - first:
+      213: -4475397200194798866
+    second: Mountain_BG_212
+  - first:
+      213: -4273636746973861231
+    second: Mountain_BG_213
+  - first:
+      213: -3662910159585334755
+    second: Mountain_BG_214
+  - first:
+      213: -6082097134480353798
+    second: Mountain_BG_215
+  - first:
+      213: 8960274891494685899
+    second: Mountain_BG_216
+  - first:
+      213: 8230854876409395850
+    second: Mountain_BG_217
+  - first:
+      213: -1694001500716273227
+    second: Mountain_BG_218
+  - first:
+      213: 4972034600139977282
+    second: Mountain_BG_219
+  - first:
+      213: -3975455975180629187
+    second: Mountain_BG_220
+  - first:
+      213: -8057348334388739372
+    second: Mountain_BG_221
+  - first:
+      213: -769971779975944037
+    second: Mountain_BG_222
+  - first:
+      213: 3159295547874372935
+    second: Mountain_BG_223
+  - first:
+      213: -6632881101546098628
+    second: Mountain_BG_224
+  - first:
+      213: -8589951574937814567
+    second: Mountain_BG_225
+  - first:
+      213: 5866938491763152810
+    second: Mountain_BG_226
+  - first:
+      213: -1703789388598196639
+    second: Mountain_BG_227
+  - first:
+      213: 4434896551942915519
+    second: Mountain_BG_228
+  - first:
+      213: -1025843751691097563
+    second: Mountain_BG_229
+  - first:
+      213: 1470381191571002799
+    second: Mountain_BG_230
+  - first:
+      213: 6738604150855002867
+    second: Mountain_BG_231
+  - first:
+      213: -7177939568955922416
+    second: Mountain_BG_232
+  - first:
+      213: -1532135924212426347
+    second: Mountain_BG_233
+  - first:
+      213: 8331218038828440920
+    second: Mountain_BG_234
+  - first:
+      213: -6291085395747842866
+    second: Mountain_BG_235
+  - first:
+      213: -7561833632506059647
+    second: Mountain_BG_236
+  - first:
+      213: 3673268950013748521
+    second: Mountain_BG_237
+  - first:
+      213: 4174064861118289806
+    second: Mountain_BG_238
+  - first:
+      213: -228086714227470729
+    second: Mountain_BG_239
+  - first:
+      213: 144326364765931465
+    second: Mountain_BG_240
+  - first:
+      213: -6889420219665633840
+    second: Mountain_BG_241
+  - first:
+      213: -6872171451161114724
+    second: Mountain_BG_242
+  - first:
+      213: -4159792763460672500
+    second: Mountain_BG_243
+  - first:
+      213: 7978256822476016985
+    second: Mountain_BG_244
+  - first:
+      213: 4049688789317500747
+    second: Mountain_BG_245
+  - first:
+      213: 3985065698272578946
+    second: Mountain_BG_246
+  - first:
+      213: 6843959478643388275
+    second: Mountain_BG_247
+  - first:
+      213: 4261112332016313534
+    second: Mountain_BG_248
+  - first:
+      213: 4509294401525098222
+    second: Mountain_BG_249
+  - first:
+      213: 8095850430203573526
+    second: Mountain_BG_250
+  - first:
+      213: 8299071671033990653
+    second: Mountain_BG_251
+  - first:
+      213: 7680703163149291807
+    second: Mountain_BG_252
+  - first:
+      213: 3238943830382310166
+    second: Mountain_BG_253
+  - first:
+      213: 6355526936268003120
+    second: Mountain_BG_254
+  - first:
+      213: 9146481975475182177
+    second: Mountain_BG_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mountain_BG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6769e88968637e60800000000000000
+      internalID: 7958819768971650927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5f81a30faa6a0e0800000000000000
+      internalID: -2258930214336137815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a591c1ce7f97a830800000000000000
+      internalID: 4082406954000029091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f5eb4680e1f8ed0800000000000000
+      internalID: -2409674254221156474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe697e32247093f80800000000000000
+      internalID: -8126456071961733393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18681376023ea5260800000000000000
+      internalID: 7087226691930654337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854f00aae97790c40800000000000000
+      internalID: 5479041945013646424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a00dbd8a0ce1550800000000000000
+      internalID: 6133551574000077355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f93c166237dbfe90800000000000000
+      internalID: -6990757385101100557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f3e17768d65040800000000000000
+      internalID: 4636130805228500017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de50df6b17b0ff650800000000000000
+      internalID: 6268741789352265197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0582d357225154220800000000000000
+      internalID: 2469403208422598736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5d53677efad1380800000000000000
+      internalID: -8998843071760837140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad0d0720b6c8ca60800000000000000
+      internalID: 7694618423234203044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea26e6383dc6f6400800000000000000
+      internalID: 319593754265543342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0615f5b0949d020800000000000000
+      internalID: 2367003392352542893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810afd2538275ce00800000000000000
+      internalID: 1064382795299659800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd785216df8553b0800000000000000
+      internalID: -5524351218306482746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2400e6201a2d5b830800000000000000
+      internalID: 4086403825880924226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b030584a632e170800000000000000
+      internalID: 8206181551256570702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c959fccce56e945d0800000000000000
+      internalID: -3077675575493552740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6880eb2f50404210800000000000000
+      internalID: 1315121868694390892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd4f0b49c845e4c0800000000000000
+      internalID: -4258917843224015413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a336b72867d4c1300800000000000000
+      internalID: 224139252852286266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dcf681f08628d00800000000000000
+      internalID: 973454883509226870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e14482d8c11fb40800000000000000
+      internalID: 5472186414823382684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e37467b41b3730b0800000000000000
+      internalID: -5749061439152950297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ebf11427a477960800000000000000
+      internalID: 7599624750790327886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016993802b2d4c870800000000000000
+      internalID: 8702312042070644240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a6b40b15a8c1600800000000000000
+      internalID: 440378947030182423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7646833a84464a30800000000000000
+      internalID: 4199119062930179708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7820ec1e459453f20800000000000000
+      internalID: 3401705722462732935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6fc5aba90a1cf30800000000000000
+      internalID: 4594129681306679025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f53f7d64e2fd940800000000000000
+      internalID: 5323024166380855161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f2f2d87796ca090800000000000000
+      internalID: -8021920874062991484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e16150499b34cf0800000000000000
+      internalID: -269167507320463724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6614c093711ffd00800000000000000
+      internalID: 1008544029601961578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfe809d3bffa3e50800000000000000
+      internalID: 6790020536119914462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53aad3a9d8410740800000000000000
+      internalID: 5116450751263712093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8330f28e77f844000800000000000000
+      internalID: 19298043575599928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50d9db17ac420ec0800000000000000
+      internalID: -3602232471332466593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2102a7b66a793370800000000000000
+      internalID: 8302801969620320558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e503bb639f435cd10800000000000000
+      internalID: 2145179042481647710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c7bd4c27cd7a30800000000000000
+      internalID: 4214743819385031110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688bb8d5bdc5d640800000000000000
+      internalID: 5104211933603268708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b603aee7aeecc0800000000000000
+      internalID: -3679819202135935338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7431d797c014dbf0800000000000000
+      internalID: -300596825695374210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1a4b942d9aa0260800000000000000
+      internalID: 7064645686128845290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d907587126b3fe0800000000000000
+      internalID: -1208264221856326310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ece05d0d414870800000000000000
+      internalID: 8665291877625159746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b5c0e4c7c7323d0800000000000000
+      internalID: -3232603234194662587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0037dad1daea0c450800000000000000
+      internalID: 6107073153264874240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6739cc4f5fc3a380800000000000000
+      internalID: -8961090825320056980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675a7854cfb3c15e0800000000000000
+      internalID: -1937607784991840906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114ee45f6852180d0800000000000000
+      internalID: -3422412980253432815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb023f691ae611d80800000000000000
+      internalID: -8281716599456325445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb0bfb59d130e40800000000000000
+      internalID: 5621369288891874251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3715fb57c5b8f2dc0800000000000000
+      internalID: -3661554742800199309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4c7641da01deb40800000000000000
+      internalID: 5471047457882752221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d23bc114a52d8a0800000000000000
+      internalID: -6281859294527541914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26022bb78f5491820800000000000000
+      internalID: 2889417569464361058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f981b53dd936ad560800000000000000
+      internalID: 7339288072260622495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a2338b6f619ff50800000000000000
+      internalID: 6915583951712234086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5b30781b0dcb1e0800000000000000
+      internalID: -2180638658661206606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e688d886f1642850800000000000000
+      internalID: 6351309085984982759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bfc5545a1a74590800000000000000
+      internalID: -7690000107506435202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da795cb48aaae9c0800000000000000
+      internalID: -3897115040463357223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded14f71a43803a30800000000000000
+      internalID: 4192995607334624749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81fd0267f49613b0800000000000000
+      internalID: -5542078501209902705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab5aadcde4045510800000000000000
+      internalID: 1536858792244435881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbca926d23ed6460800000000000000
+      internalID: 7236689960321600475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2704595261852a50800000000000000
+      internalID: 6495740296957265710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b266158ba4c9f2a0800000000000000
+      internalID: -6703110329412984139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf5af6dc74c70d80800000000000000
+      internalID: -8284436949063016533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9cd6086d85fb900800000000000000
+      internalID: 702377745194011071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f08d4e87c81aef0800000000000000
+      internalID: -98643265962111226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efee105936df09d0800000000000000
+      internalID: -2805788501182844956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827c8cb40ceb5a50800000000000000
+      internalID: 6511057191381529226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698dc56fc42d8cc80800000000000000
+      internalID: -8302154685064882026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298ed4b78d7b89940800000000000000
+      internalID: 5303190701638281362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8a0cd218edb5350800000000000000
+      internalID: 6006639174428436711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce75238215f38fb0800000000000000
+      internalID: -4646600930657730872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23c4f800cd0e28f0800000000000000
+      internalID: -563497784939592917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664c990ba7c262de0800000000000000
+      internalID: -1358349332145126298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f13f2b6031761f10800000000000000
+      internalID: 2240102317434024439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfddf36eb781ed20800000000000000
+      internalID: 3306072853257773009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3ddf1bb17aa0c10800000000000000
+      internalID: 2020611120221246454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6c95f2a6b528a80800000000000000
+      internalID: -8466103837884037421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfe28313ac0c2c10800000000000000
+      internalID: 2030011426583801820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba3221c504550ed0800000000000000
+      internalID: -2448458438714180930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29591cceee4df58c0800000000000000
+      internalID: -4008251020697037422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a820d008a48219f0800000000000000
+      internalID: -499190751581689691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd94d4cc5e2f0b0800000000000000
+      internalID: -5696237913037480180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55276c3e39811bd0800000000000000
+      internalID: -2661195004404882086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f27456f23cfb220800000000000000
+      internalID: 2503934526171328278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea663e5d1410bf0800000000000000
+      internalID: -359934108313932080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51740db7ba6fb6a0800000000000000
+      internalID: -6431304405479034533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc03aebe9b1809660800000000000000
+      internalID: 7390549624041910477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf8e020734167c0800000000000000
+      internalID: -4079905638553420855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d73d9dd9e656b30800000000000000
+      internalID: 4279948645128961303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3884c5fd18067440800000000000000
+      internalID: 4933139366601328698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f704af6de86ea770800000000000000
+      internalID: 8623945705450637300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f826e603946ae26c0800000000000000
+      internalID: -4166209771995766129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764bd4593905bffc0800000000000000
+      internalID: -3460083293908781977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5961659f1174bf0800000000000000
+      internalID: -340283484254333482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa1df52ca767960800000000000000
+      internalID: 7599396396484112382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a779036c03c744bb0800000000000000
+      internalID: -4952697141275355270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3877c082d6ce13280800000000000000
+      internalID: -9065204621352601725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a04d6b582388190800000000000000
+      internalID: -7960056791497962988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a84d42c340a01e0800000000000000
+      internalID: -2230966009046201776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a138ddffde88ae0800000000000000
+      internalID: -1546724788812965288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0510342ba38a40430800000000000000
+      internalID: 3748305759931400528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9c02afc3797ce20800000000000000
+      internalID: 3370829134260390314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b782bfafc53e90800000000000000
+      internalID: -7046497688429808412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec67ab268f687d60800000000000000
+      internalID: 7888177369388117227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5122b131197d62d0800000000000000
+      internalID: -3283835438528061092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3353e55e9a30340800000000000000
+      internalID: 4828890028064453551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1339fd4ec43800540800000000000000
+      internalID: 4972118354897638193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1763e13c1aef4c0800000000000000
+      internalID: -4251783138793590295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48651d0e276163540800000000000000
+      internalID: 4987198320013301380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9344893d79b98f1e0800000000000000
+      internalID: -2163808544559184839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e666ce9a11e120800000000000000
+      internalID: 2441261742247306974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedb8a483225fcab0800000000000000
+      internalID: -4985675949972865556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb356bfa3b3c24e50800000000000000
+      internalID: 6792206364542653371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d451225feb2cec450800000000000000
+      internalID: 6111035869800568141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4efbe734753d90a0800000000000000
+      internalID: -6873278683026817461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00433ee03074eaa0800000000000000
+      internalID: -6132653437114695668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2fd6ac2822d7630800000000000000
+      internalID: 3926332395274236578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bc92a70d5b5c9f0800000000000000
+      internalID: -448752680846111858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c9fa310d7406c40800000000000000
+      internalID: 5503477703655791710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001fe5af46c83ccc0800000000000000
+      internalID: -3691952904188530432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b9552531ea2fa0800000000000000
+      internalID: -5824595549674163560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9241c2ec79ee0e0800000000000000
+      internalID: -2238685052997981789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8b792f5a7635870800000000000000
+      internalID: 8670387670055631009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edf42229af341350800000000000000
+      internalID: 5986479800337104353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0be2f059bb41650800000000000000
+      internalID: 6202788835675255017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5027cc861ff8a00800000000000000
+      internalID: 761092294457820606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9444f049cf0a780800000000000000
+      internalID: -8673655169474082329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_138
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430621cdf4cbf8220800000000000000
+      internalID: 2490416170139803700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_139
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ee461407e79b7d0800000000000000
+      internalID: -2902149464265003475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead30d20414542400800000000000000
+      internalID: 298455920236576174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_141
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e694a079446ad0800000000000000
+      internalID: -2709960327623677674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ac060d184886b70800000000000000
+      internalID: 8892503157324696201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68eafbccb14f4ba0800000000000000
+      internalID: -6102586690931857297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a68d72a49e8f360800000000000000
+      internalID: 7203764108684454482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f3b28fba5764300800000000000000
+      internalID: 236005411946971006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6a3aeb134739900800000000000000
+      internalID: 690022924918433484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe3f44bcec303860800000000000000
+      internalID: 7507567566161657597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd37a6f8605340d0800000000000000
+      internalID: -3439817278635950658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e3ab786b3195d40800000000000000
+      internalID: 5573507688529804879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd42973a3ddc1550800000000000000
+      internalID: 6133020034681949695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dbe2c6bf68f4900800000000000000
+      internalID: 670903283911409034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b4efb9251e5c550800000000000000
+      internalID: 6180593808556575534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56610c0e36cafd810800000000000000
+      internalID: 1792340721689171557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb6efc2fc8dd320800000000000000
+      internalID: 2584376735678512924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae22cbb021fc17b0800000000000000
+      internalID: -5252057942529528149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832d5eecf7c523620800000000000000
+      internalID: 2752364026278564408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4110ed7d320512a80800000000000000
+      internalID: -8493419307368316652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b11311b3001c590800000000000000
+      internalID: -7655837637861631147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979893b1a17bb950800000000000000
+      internalID: 6465886629337274264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e45f34fa05796a20800000000000000
+      internalID: 3056102512055506147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d843c8c9d8cad2c80800000000000000
+      internalID: -8345824810230860659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9c11e0098ea76a0800000000000000
+      internalID: -6450587810845832712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f675b43fe46ce9590800000000000000
+      internalID: -7665471473346455697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e6837f1632b8950800000000000000
+      internalID: 6452289794804838035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6041df9992d3310800000000000000
+      internalID: 1386310001652664039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af85d91c71120030800000000000000
+      internalID: 3459346688481005475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271d019bb374f6d00800000000000000
+      internalID: 968070766741475698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ec3aac6e3758770800000000000000
+      internalID: 8612417297495346756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935a6973675456d00800000000000000
+      internalID: 965254069181916473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52966a25e3f6df00800000000000000
+      internalID: 1141367721169424987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9dbc685590b3ca0800000000000000
+      internalID: -6036220612621641288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8420ca54ed8f29e0800000000000000
+      internalID: -1643939327052340083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a51cd3f54344710800000000000000
+      internalID: 1676522544951286397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c3c1bdb3eabaa40800000000000000
+      internalID: 5380585751926553645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b036c49748f424d00800000000000000
+      internalID: 955413501345293067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1710f42fecd18f7d0800000000000000
+      internalID: -2884522786665070223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202dfaba0033de720800000000000000
+      internalID: 2877011814933058050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf0b7ea80fec8310800000000000000
+      internalID: 1408763604026200011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8841ecdf1d31d80800000000000000
+      internalID: -8281044401789826839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b3c6438492f0690800000000000000
+      internalID: -7633837453275808963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d089ccf0a67de0370800000000000000
+      internalID: 8290800814567233549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b94501ef19a44b0800000000000000
+      internalID: -5455387478224233673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0be2dff5ad655210800000000000000
+      internalID: 1321082625432152843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e4861ac582d56d0800000000000000
+      internalID: -3000197398448812402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_185
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967997ccb09863f10800000000000000
+      internalID: 2249135747686307689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ed1e500d0e36890800000000000000
+      internalID: -7465876573193642450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_187
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfa8d55b42cbdd60800000000000000
+      internalID: 7916134398852378569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140d3979e3f849200800000000000000
+      internalID: 185930983622824001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_189
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e26210039ab0c40800000000000000
+      internalID: 5479659395269144203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_190
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a0d3ccf43f81c0800000000000000
+      internalID: -4499319242498201642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_191
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6ebac70cd5f8a90800000000000000
+      internalID: -7309520588892281177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ee0d9d823680740800000000000000
+      internalID: 5118450003610758714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1477251bd531c950800000000000000
+      internalID: 6467509754949760026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732a1eb4ec6067080800000000000000
+      internalID: -9190150506496810441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3c1efd4c2d322e0800000000000000
+      internalID: -2151644453941427259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46a0845df06ad40800000000000000
+      internalID: 5595176995765511385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62bd5edbd054aa30800000000000000
+      internalID: 4225591255639110254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac1ad124db85a560800000000000000
+      internalID: 7324414112205249705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_199
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d02216ff223d2b0800000000000000
+      internalID: -5561062634630804156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8929fd189887b7f10800000000000000
+      internalID: 2268539369295942296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5a953d72303c480800000000000000
+      internalID: -8880250570660010567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_202
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad7b1cde7d7dec00800000000000000
+      internalID: 931538681747701153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_203
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9246570b8ed5920800000000000000
+      internalID: 2980794372970523115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_204
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db2aa6105815fa0800000000000000
+      internalID: -5813719402828088005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d54fad485715590800000000000000
+      internalID: -7687233875475145452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_206
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5121816666167420800000000000000
+      internalID: 2627312061595591003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_207
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9a94775b119d640800000000000000
+      internalID: 5105131123689236939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c612dcfc68eb62860800000000000000
+      internalID: 7504895315280732524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cabc4778b8d0ae0800000000000000
+      internalID: -1581454480240825293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7195ca99f488bb520800000000000000
+      internalID: 2718916675510229271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad405341702050b20800000000000000
+      internalID: 3099886147941500122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_212
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea7c9545f134e1c0800000000000000
+      internalID: -4475397200194798866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a2195750ef0b4c0800000000000000
+      internalID: -4273636746973861231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a2fb5ed9aba2dc0800000000000000
+      internalID: -3662910159585334755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_215
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af590e961ec089ba0800000000000000
+      internalID: -6082097134480353798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc746d4a8a495c70800000000000000
+      internalID: 8960274891494685899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a7c22b6eed93270800000000000000
+      internalID: 8230854876409395850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_218
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1f3dc3c92bd78e0800000000000000
+      internalID: -1694001500716273227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_219
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2427b483027300540800000000000000
+      internalID: 4972034600139977282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_220
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b872b7ad754d8c0800000000000000
+      internalID: -3975455975180629187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_221
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d28c29216c8e2090800000000000000
+      internalID: -8057348334388739372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_222
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98657fdeb28055f0800000000000000
+      internalID: -769971779975944037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_223
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d6687ef8218db20800000000000000
+      internalID: 3159295547874372935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3071f8d7c543f3a0800000000000000
+      internalID: -6632881101546098628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9360add8c5ac880800000000000000
+      internalID: -8589951574937814567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7db90597d8b6150800000000000000
+      internalID: 5866938491763152810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1664680049cea58e0800000000000000
+      internalID: -1703789388598196639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5892abaeaeb8d30800000000000000
+      internalID: 4434896551942915519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_229
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ae5610b8873c1f0800000000000000
+      internalID: -1025843751691097563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_230
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5510047e7d76410800000000000000
+      internalID: 1470381191571002799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6fa5c5c4548d50800000000000000
+      internalID: 6738604150855002867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018692d0ef5d26c90800000000000000
+      internalID: -7177939568955922416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59914b99e72ccbae0800000000000000
+      internalID: -1532135924212426347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d12b66aae6e9370800000000000000
+      internalID: 8331218038828440920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_235
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45dc60a2391b8a0800000000000000
+      internalID: -6291085395747842866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_236
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184efd32068fe0790800000000000000
+      internalID: -7561833632506059647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_237
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925aa02f5a21af230800000000000000
+      internalID: 3673268950013748521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_238
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87556440e14de930800000000000000
+      internalID: 4174064861118289806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_239
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4c74875ca5dcf0800000000000000
+      internalID: -228086714227470729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7c8976010c00200800000000000000
+      internalID: 144326364765931465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddaf6adfccd360a0800000000000000
+      internalID: -6889420219665633840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9706f9b97421a0a0800000000000000
+      internalID: -6872171451161114724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04afaa65827546c0800000000000000
+      internalID: -4159792763460672500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d05863f4678be60800000000000000
+      internalID: 7978256822476016985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_245
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fb62a6f72633830800000000000000
+      internalID: 4049688789317500747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d8128832ccd4730800000000000000
+      internalID: 3985065698272578946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_247
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fe4bd82e0aafe50800000000000000
+      internalID: 6843959478643388275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_248
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb46ed1f613822b30800000000000000
+      internalID: 4261112332016313534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_249
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6af8eed5b349e30800000000000000
+      internalID: 4509294401525098222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_250
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6153af6921d3a5070800000000000000
+      internalID: 8095850430203573526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_251
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd0d75e6b93c2370800000000000000
+      internalID: 8299071671033990653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_252
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119bb035d6579a60800000000000000
+      internalID: 7680703163149291807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_253
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6137169c04a03fc20800000000000000
+      internalID: 3238943830382310166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_254
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0375ea4531e533850800000000000000
+      internalID: 6355526936268003120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_BG_255
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a16b485e4deee70800000000000000
+      internalID: 9146481975475182177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b9d0833fb5f079e46b980baaba0a6555
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

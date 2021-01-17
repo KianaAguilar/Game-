@@ -1,0 +1,3004 @@
+fileFormatVersion: 2
+guid: 166db34841ed4454985726b5f89324cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Level_Sprites_0
+  - first:
+      213: 21300002
+    second: Level_Sprites_1
+  - first:
+      213: 21300004
+    second: Level_Sprites_2
+  - first:
+      213: 21300006
+    second: Level_Sprites_3
+  - first:
+      213: 21300008
+    second: Level_Sprites_4
+  - first:
+      213: 21300010
+    second: Level_Sprites_5
+  - first:
+      213: 21300012
+    second: Level_Sprites_6
+  - first:
+      213: 21300014
+    second: Level_Sprites_7
+  - first:
+      213: 21300016
+    second: Level_Sprites_8
+  - first:
+      213: 21300018
+    second: Level_Sprites_9
+  - first:
+      213: 21300020
+    second: Level_Sprites_10
+  - first:
+      213: 21300022
+    second: Level_Sprites_11
+  - first:
+      213: 21300024
+    second: Level_Sprites_12
+  - first:
+      213: 21300026
+    second: Level_Sprites_13
+  - first:
+      213: 21300028
+    second: Level_Sprites_14
+  - first:
+      213: 21300030
+    second: Level_Sprites_15
+  - first:
+      213: 21300032
+    second: Level_Sprites_16
+  - first:
+      213: 21300034
+    second: Level_Sprites_17
+  - first:
+      213: 21300036
+    second: Level_Sprites_18
+  - first:
+      213: 21300038
+    second: Level_Sprites_19
+  - first:
+      213: 21300040
+    second: Level_Sprites_20
+  - first:
+      213: 21300042
+    second: Level_Sprites_21
+  - first:
+      213: 8434043765876420572
+    second: Level_Sprites_0
+  - first:
+      213: -1958413429573138137
+    second: Level_Sprites_1
+  - first:
+      213: -4358290291217299700
+    second: Level_Sprites_2
+  - first:
+      213: 7420777803934246535
+    second: Level_Sprites_3
+  - first:
+      213: -180404044417433696
+    second: Level_Sprites_4
+  - first:
+      213: 753440644626670686
+    second: Level_Sprites_5
+  - first:
+      213: 1180707493265773832
+    second: Level_Sprites_6
+  - first:
+      213: -56640261179501115
+    second: Level_Sprites_7
+  - first:
+      213: 5264399452898413778
+    second: Level_Sprites_8
+  - first:
+      213: -5419158082580950167
+    second: Level_Sprites_9
+  - first:
+      213: -5072661979425175646
+    second: Level_Sprites_10
+  - first:
+      213: -8786829345861893547
+    second: Level_Sprites_11
+  - first:
+      213: -225045495542801933
+    second: Level_Sprites_12
+  - first:
+      213: 5166561084192842031
+    second: Level_Sprites_13
+  - first:
+      213: -1369919235727134465
+    second: Level_Sprites_14
+  - first:
+      213: -8845847622346685466
+    second: Level_Sprites_15
+  - first:
+      213: -5791158364902661971
+    second: Level_Sprites_16
+  - first:
+      213: -7654046058287155634
+    second: Level_Sprites_17
+  - first:
+      213: 5397145248862511206
+    second: Level_Sprites_18
+  - first:
+      213: 4128259776373846485
+    second: Level_Sprites_19
+  - first:
+      213: -357274527388364617
+    second: Level_Sprites_20
+  - first:
+      213: 1661349312269206305
+    second: Level_Sprites_21
+  - first:
+      213: 1887970035878584372
+    second: Level_Sprites_22
+  - first:
+      213: 4310097207530009309
+    second: Level_Sprites_23
+  - first:
+      213: -8048945923911051306
+    second: Level_Sprites_24
+  - first:
+      213: 6530758116902608564
+    second: Level_Sprites_25
+  - first:
+      213: -7337084483399709860
+    second: Level_Sprites_26
+  - first:
+      213: -5777400318423347419
+    second: Level_Sprites_27
+  - first:
+      213: -821832538679351895
+    second: Level_Sprites_28
+  - first:
+      213: 6389846571813132064
+    second: Level_Sprites_29
+  - first:
+      213: -5995911521475290635
+    second: Level_Sprites_30
+  - first:
+      213: -4493459653197838627
+    second: Level_Sprites_31
+  - first:
+      213: 6640928114087531462
+    second: Level_Sprites_32
+  - first:
+      213: 5781217057845132505
+    second: Level_Sprites_33
+  - first:
+      213: 9062384009814512033
+    second: Level_Sprites_34
+  - first:
+      213: -7371727557918966792
+    second: Level_Sprites_35
+  - first:
+      213: -754034482535597717
+    second: Level_Sprites_36
+  - first:
+      213: -772832777867919340
+    second: Level_Sprites_37
+  - first:
+      213: 6946813045914008039
+    second: Level_Sprites_38
+  - first:
+      213: 450987368280326137
+    second: Level_Sprites_39
+  - first:
+      213: -694319311625571186
+    second: Level_Sprites_40
+  - first:
+      213: 6069902459660188056
+    second: Level_Sprites_41
+  - first:
+      213: 5364302367682568587
+    second: Level_Sprites_42
+  - first:
+      213: 2490131440278663781
+    second: Level_Sprites_43
+  - first:
+      213: -4145762394679259580
+    second: Level_Sprites_44
+  - first:
+      213: 8349881739575036818
+    second: Level_Sprites_45
+  - first:
+      213: 5134557856602496600
+    second: Level_Sprites_46
+  - first:
+      213: 5335880969678422323
+    second: Level_Sprites_47
+  - first:
+      213: 4148547547281936487
+    second: Level_Sprites_48
+  - first:
+      213: -3626684140908378128
+    second: Level_Sprites_49
+  - first:
+      213: -4495164247330263201
+    second: Level_Sprites_50
+  - first:
+      213: 849413415828928089
+    second: Level_Sprites_51
+  - first:
+      213: -8723067214833086164
+    second: Level_Sprites_52
+  - first:
+      213: -7220767563985753377
+    second: Level_Sprites_53
+  - first:
+      213: 571060170132334532
+    second: Level_Sprites_54
+  - first:
+      213: -5198540770157875705
+    second: Level_Sprites_55
+  - first:
+      213: 4348869028389692000
+    second: Level_Sprites_56
+  - first:
+      213: -8665767622919009867
+    second: Level_Sprites_57
+  - first:
+      213: 2244399352260872511
+    second: Level_Sprites_58
+  - first:
+      213: 8940414559166646180
+    second: Level_Sprites_59
+  - first:
+      213: 7671981673972649161
+    second: Level_Sprites_60
+  - first:
+      213: -8394003287569168639
+    second: Level_Sprites_61
+  - first:
+      213: 1503537748525067186
+    second: Level_Sprites_62
+  - first:
+      213: -1799424503182713053
+    second: Level_Sprites_63
+  - first:
+      213: -7864835354717819063
+    second: Level_Sprites_64
+  - first:
+      213: 7851661886675773637
+    second: Level_Sprites_65
+  - first:
+      213: 4383551287443459923
+    second: Level_Sprites_66
+  - first:
+      213: -3735868453372905183
+    second: Level_Sprites_67
+  - first:
+      213: 5657331898966603125
+    second: Level_Sprites_68
+  - first:
+      213: 8747534107667974181
+    second: Level_Sprites_69
+  - first:
+      213: -1250366229585312402
+    second: Level_Sprites_70
+  - first:
+      213: 5292486618917423092
+    second: Level_Sprites_71
+  - first:
+      213: 1730008257368858776
+    second: Level_Sprites_72
+  - first:
+      213: -235252877967475891
+    second: Level_Sprites_73
+  - first:
+      213: -2355305396143637274
+    second: Level_Sprites_74
+  - first:
+      213: 9210403147189363264
+    second: Level_Sprites_75
+  - first:
+      213: 5878894879106334453
+    second: Level_Sprites_76
+  - first:
+      213: 8895096675147243912
+    second: Level_Sprites_77
+  - first:
+      213: 4020725786639550227
+    second: Level_Sprites_78
+  - first:
+      213: -3673480985368174920
+    second: Level_Sprites_79
+  - first:
+      213: 2967688769325087069
+    second: Level_Sprites_80
+  - first:
+      213: 8616081896042432715
+    second: Level_Sprites_81
+  - first:
+      213: 366990981546635498
+    second: Level_Sprites_82
+  - first:
+      213: -6531060329154373025
+    second: Level_Sprites_83
+  - first:
+      213: 1002377520807703088
+    second: Level_Sprites_84
+  - first:
+      213: 4322734977043384098
+    second: Level_Sprites_85
+  - first:
+      213: 8105876518284797248
+    second: Level_Sprites_86
+  - first:
+      213: -4297353097236184584
+    second: Level_Sprites_87
+  - first:
+      213: -5332149812371443611
+    second: Level_Sprites_88
+  - first:
+      213: -1799276456745725360
+    second: Level_Sprites_89
+  - first:
+      213: -4970050707909794624
+    second: Level_Sprites_90
+  - first:
+      213: -6797664473113439681
+    second: Level_Sprites_91
+  - first:
+      213: -5965124338177233653
+    second: Level_Sprites_92
+  - first:
+      213: -2138983140840254741
+    second: Level_Sprites_93
+  - first:
+      213: -5773373902636418580
+    second: Level_Sprites_94
+  - first:
+      213: 5297770587570542265
+    second: Level_Sprites_95
+  - first:
+      213: 6863723872054020271
+    second: Level_Sprites_96
+  - first:
+      213: -2251099795130330147
+    second: Level_Sprites_97
+  - first:
+      213: 7104157699235733665
+    second: Level_Sprites_98
+  - first:
+      213: -4962132294106597395
+    second: Level_Sprites_99
+  - first:
+      213: -3973224701019193276
+    second: Level_Sprites_100
+  - first:
+      213: -7066900636226210685
+    second: Level_Sprites_101
+  - first:
+      213: 263783253165909159
+    second: Level_Sprites_102
+  - first:
+      213: 997944450751712733
+    second: Level_Sprites_103
+  - first:
+      213: -3640621913198962814
+    second: Level_Sprites_104
+  - first:
+      213: -536696724644155801
+    second: Level_Sprites_105
+  - first:
+      213: -7184099701288160447
+    second: Level_Sprites_106
+  - first:
+      213: 5641044291056954568
+    second: Level_Sprites_107
+  - first:
+      213: 2264765761068719264
+    second: Level_Sprites_108
+  - first:
+      213: -4706256717619614982
+    second: Level_Sprites_109
+  - first:
+      213: 8951638496739949736
+    second: Level_Sprites_110
+  - first:
+      213: -2363827940151061667
+    second: Level_Sprites_111
+  - first:
+      213: 3144050099726642438
+    second: Level_Sprites_112
+  - first:
+      213: 7958873104991841894
+    second: Level_Sprites_113
+  - first:
+      213: 4048132014631282540
+    second: Level_Sprites_114
+  - first:
+      213: -6364508468960930635
+    second: Level_Sprites_115
+  - first:
+      213: -3970713507000837317
+    second: Level_Sprites_116
+  - first:
+      213: -7040596938548401132
+    second: Level_Sprites_117
+  - first:
+      213: -5994973300168251973
+    second: Level_Sprites_118
+  - first:
+      213: -8927266347410063230
+    second: Level_Sprites_119
+  - first:
+      213: 1482275692015453877
+    second: Level_Sprites_120
+  - first:
+      213: 6782306342837049792
+    second: Level_Sprites_121
+  - first:
+      213: 5223204030094404758
+    second: Level_Sprites_122
+  - first:
+      213: 7284864590390952478
+    second: Level_Sprites_123
+  - first:
+      213: 2371006862617623277
+    second: Level_Sprites_124
+  - first:
+      213: -2009610075694037414
+    second: Level_Sprites_125
+  - first:
+      213: -7568026738739939727
+    second: Level_Sprites_126
+  - first:
+      213: -3782928970535493711
+    second: Level_Sprites_127
+  - first:
+      213: 5627544548287551981
+    second: Level_Sprites_128
+  - first:
+      213: 4436210874995017811
+    second: Level_Sprites_129
+  - first:
+      213: -7564154388104716955
+    second: Level_Sprites_130
+  - first:
+      213: 2877181142778070807
+    second: Level_Sprites_131
+  - first:
+      213: -5814426589565408471
+    second: Level_Sprites_132
+  - first:
+      213: -2642319915348936655
+    second: Level_Sprites_133
+  - first:
+      213: -7740344866559184623
+    second: Level_Sprites_134
+  - first:
+      213: 3941145863578812609
+    second: Level_Sprites_135
+  - first:
+      213: 78811297732743803
+    second: Level_Sprites_136
+  - first:
+      213: 3782431587797017773
+    second: Level_Sprites_137
+  - first:
+      213: 1997236785629209365
+    second: Level_Sprites_138
+  - first:
+      213: 677090570749830930
+    second: Level_Sprites_139
+  - first:
+      213: 605005448132699299
+    second: Level_Sprites_140
+  - first:
+      213: 1685247394881109474
+    second: Level_Sprites_141
+  - first:
+      213: -1310698383320251229
+    second: Level_Sprites_142
+  - first:
+      213: 8124777061743198621
+    second: Level_Sprites_143
+  - first:
+      213: 5531334194061370096
+    second: Level_Sprites_144
+  - first:
+      213: -7518065800472489070
+    second: Level_Sprites_145
+  - first:
+      213: -1780258680837530961
+    second: Level_Sprites_146
+  - first:
+      213: -6320573313792064610
+    second: Level_Sprites_147
+  - first:
+      213: 3786498474079866669
+    second: Level_Sprites_148
+  - first:
+      213: 6956890407401639213
+    second: Level_Sprites_149
+  - first:
+      213: -2758488670544215411
+    second: Level_Sprites_150
+  - first:
+      213: -2069890257749480264
+    second: Level_Sprites_151
+  - first:
+      213: 5610466590150198460
+    second: Level_Sprites_152
+  - first:
+      213: -6201234743920886751
+    second: Level_Sprites_153
+  - first:
+      213: 6775386097579823117
+    second: Level_Sprites_154
+  - first:
+      213: 363097308957233444
+    second: Level_Sprites_155
+  - first:
+      213: -1006159594215337449
+    second: Level_Sprites_156
+  - first:
+      213: -3265047317472944275
+    second: Level_Sprites_157
+  - first:
+      213: 5469602368241820630
+    second: Level_Sprites_158
+  - first:
+      213: -6453005146043010551
+    second: Level_Sprites_159
+  - first:
+      213: -7985308257273338210
+    second: Level_Sprites_160
+  - first:
+      213: 6500911140422995844
+    second: Level_Sprites_161
+  - first:
+      213: 3514125500980361721
+    second: Level_Sprites_162
+  - first:
+      213: 1870578525312564682
+    second: Level_Sprites_163
+  - first:
+      213: 7958825301638223774
+    second: Level_Sprites_164
+  - first:
+      213: 5215292248433070882
+    second: Level_Sprites_165
+  - first:
+      213: -8495668123311048938
+    second: Level_Sprites_166
+  - first:
+      213: -8908067227014103188
+    second: Level_Sprites_167
+  - first:
+      213: 5047029707457138354
+    second: Level_Sprites_168
+  - first:
+      213: -6492337398701739883
+    second: Level_Sprites_169
+  - first:
+      213: 942302544230727149
+    second: Level_Sprites_170
+  - first:
+      213: -8969125165350348010
+    second: Level_Sprites_171
+  - first:
+      213: 4908727588622116442
+    second: Level_Sprites_172
+  - first:
+      213: -7898107614453212826
+    second: Level_Sprites_173
+  - first:
+      213: -5967647497043663121
+    second: Level_Sprites_174
+  - first:
+      213: -6038826223534139620
+    second: Level_Sprites_175
+  - first:
+      213: -89044792409126966
+    second: Level_Sprites_176
+  - first:
+      213: -1546941660370079281
+    second: Level_Sprites_177
+  - first:
+      213: 3124005713730726483
+    second: Level_Sprites_178
+  - first:
+      213: 7657747781132590072
+    second: Level_Sprites_179
+  - first:
+      213: 5535903904591169054
+    second: Level_Sprites_180
+  - first:
+      213: 8002966966430332727
+    second: Level_Sprites_181
+  - first:
+      213: -4306035983987784865
+    second: Level_Sprites_182
+  - first:
+      213: -249846296917820257
+    second: Level_Sprites_183
+  - first:
+      213: 7366560704433595900
+    second: Level_Sprites_184
+  - first:
+      213: -2748550388006704978
+    second: Level_Sprites_185
+  - first:
+      213: -6615495859134192100
+    second: Level_Sprites_186
+  - first:
+      213: 5135801197814492479
+    second: Level_Sprites_187
+  - first:
+      213: 7480082715552363198
+    second: Level_Sprites_188
+  - first:
+      213: -4666556186906672275
+    second: Level_Sprites_189
+  - first:
+      213: 3489977661136474220
+    second: Level_Sprites_190
+  - first:
+      213: 8254464071247714537
+    second: Level_Sprites_191
+  - first:
+      213: 6222016507405194654
+    second: Level_Sprites_192
+  - first:
+      213: -1469170706948581759
+    second: Level_Sprites_193
+  - first:
+      213: -5902217094537185713
+    second: Level_Sprites_194
+  - first:
+      213: 4878090942680963887
+    second: Level_Sprites_195
+  - first:
+      213: 5182753841205642796
+    second: Level_Sprites_196
+  - first:
+      213: -6970064143343108140
+    second: Level_Sprites_197
+  - first:
+      213: -4021842112696614142
+    second: Level_Sprites_198
+  - first:
+      213: -6959547150602478615
+    second: Level_Sprites_199
+  - first:
+      213: -387978692254184237
+    second: Level_Sprites_200
+  - first:
+      213: 7075703916225468805
+    second: Level_Sprites_201
+  - first:
+      213: 1034857623581031369
+    second: Level_Sprites_202
+  - first:
+      213: -7191222464181767837
+    second: Level_Sprites_203
+  - first:
+      213: 2206408708049388076
+    second: Level_Sprites_204
+  - first:
+      213: -2039832461761220173
+    second: Level_Sprites_205
+  - first:
+      213: -9182488429748222282
+    second: Level_Sprites_206
+  - first:
+      213: 2083331910905256093
+    second: Level_Sprites_207
+  - first:
+      213: -8861721987529322242
+    second: Level_Sprites_208
+  - first:
+      213: 6586129620150117819
+    second: Level_Sprites_209
+  - first:
+      213: 7076006124526429940
+    second: Level_Sprites_210
+  - first:
+      213: -7449536211343200871
+    second: Level_Sprites_211
+  - first:
+      213: -4723139288386459148
+    second: Level_Sprites_212
+  - first:
+      213: 1701841558387468984
+    second: Level_Sprites_213
+  - first:
+      213: 2141076436930048918
+    second: Level_Sprites_214
+  - first:
+      213: 836690092177693812
+    second: Level_Sprites_215
+  - first:
+      213: -1889433477330687006
+    second: Level_Sprites_216
+  - first:
+      213: 1263636977931008099
+    second: Level_Sprites_217
+  - first:
+      213: 2184175720470763994
+    second: Level_Sprites_218
+  - first:
+      213: 7325548854927448784
+    second: Level_Sprites_219
+  - first:
+      213: -6460913130935335063
+    second: Level_Sprites_220
+  - first:
+      213: 5472100439408227142
+    second: Level_Sprites_221
+  - first:
+      213: 5081787975445618703
+    second: Level_Sprites_222
+  - first:
+      213: -3986184303430579672
+    second: Level_Sprites_223
+  - first:
+      213: 2175991574212912561
+    second: Level_Sprites_224
+  - first:
+      213: -9162789144477660195
+    second: Level_Sprites_225
+  - first:
+      213: 3025608301370447214
+    second: Level_Sprites_226
+  - first:
+      213: 1314064633401018981
+    second: Level_Sprites_227
+  - first:
+      213: 8830425469860458518
+    second: Level_Sprites_228
+  - first:
+      213: 5611025370338681575
+    second: Level_Sprites_229
+  - first:
+      213: 5404032592237076246
+    second: Level_Sprites_230
+  - first:
+      213: 1508295857945726958
+    second: Level_Sprites_231
+  - first:
+      213: -9201420734023368886
+    second: Level_Sprites_232
+  - first:
+      213: 6581010761526459487
+    second: Level_Sprites_233
+  - first:
+      213: 7630343290468161926
+    second: Level_Sprites_234
+  - first:
+      213: 6880091167332752792
+    second: Level_Sprites_235
+  - first:
+      213: 2810564187659247216
+    second: Level_Sprites_236
+  - first:
+      213: -2161219185302247620
+    second: Level_Sprites_237
+  - first:
+      213: 1228721583873920559
+    second: Level_Sprites_238
+  - first:
+      213: -7981971246506310939
+    second: Level_Sprites_239
+  - first:
+      213: 5437921245164196586
+    second: Level_Sprites_240
+  - first:
+      213: 5303032430304524659
+    second: Level_Sprites_241
+  - first:
+      213: 7937707801497656266
+    second: Level_Sprites_242
+  - first:
+      213: -9171080310640786686
+    second: Level_Sprites_243
+  - first:
+      213: 6812628893161860895
+    second: Level_Sprites_244
+  - first:
+      213: 2585307670861035461
+    second: Level_Sprites_245
+  - first:
+      213: -1259159943662208588
+    second: Level_Sprites_246
+  - first:
+      213: 6444026621604356046
+    second: Level_Sprites_247
+  - first:
+      213: -2155816916576494108
+    second: Level_Sprites_248
+  - first:
+      213: -4769067401053459572
+    second: Level_Sprites_249
+  - first:
+      213: -8086819318217658295
+    second: Level_Sprites_250
+  - first:
+      213: -6752282637459030350
+    second: Level_Sprites_251
+  - first:
+      213: -8162587118024051703
+    second: Level_Sprites_252
+  - first:
+      213: -4063278274373821479
+    second: Level_Sprites_253
+  - first:
+      213: 5562036913766663241
+    second: Level_Sprites_254
+  - first:
+      213: 6056358753631222805
+    second: Level_Sprites_255
+  - first:
+      213: -474546871900897258
+    second: Level_Sprites_256
+  - first:
+      213: -185742625251877678
+    second: Level_Sprites_257
+  - first:
+      213: -5701098021484754470
+    second: Level_Sprites_258
+  - first:
+      213: -4728879303464225475
+    second: Level_Sprites_259
+  - first:
+      213: 3239257365559657991
+    second: Level_Sprites_260
+  - first:
+      213: -3276310247806952618
+    second: Level_Sprites_261
+  - first:
+      213: 8550227366325119578
+    second: Level_Sprites_262
+  - first:
+      213: -6534465431687353181
+    second: Level_Sprites_263
+  - first:
+      213: -1147047356160102189
+    second: Level_Sprites_264
+  - first:
+      213: -5364315724156591686
+    second: Level_Sprites_265
+  - first:
+      213: -4837421276158101696
+    second: Level_Sprites_266
+  - first:
+      213: 6756104362039452004
+    second: Level_Sprites_267
+  - first:
+      213: -1935966800893614546
+    second: Level_Sprites_268
+  - first:
+      213: 7141276572856705138
+    second: Level_Sprites_269
+  - first:
+      213: -7453079493106796333
+    second: Level_Sprites_270
+  - first:
+      213: -2996173552600367024
+    second: Level_Sprites_271
+  - first:
+      213: 1515713971973039139
+    second: Level_Sprites_272
+  - first:
+      213: 4880302330383974825
+    second: Level_Sprites_273
+  - first:
+      213: -2707300056259476475
+    second: Level_Sprites_274
+  - first:
+      213: 5957276132360997475
+    second: Level_Sprites_275
+  - first:
+      213: -7702232435366338197
+    second: Level_Sprites_276
+  - first:
+      213: -4404566995161819213
+    second: Level_Sprites_277
+  - first:
+      213: 4565062676259326951
+    second: Level_Sprites_278
+  - first:
+      213: 2055707557518727775
+    second: Level_Sprites_279
+  - first:
+      213: 6608246365456330989
+    second: Level_Sprites_280
+  - first:
+      213: -7735306856687343333
+    second: Level_Sprites_281
+  - first:
+      213: 8500702110629639744
+    second: Level_Sprites_282
+  - first:
+      213: -7907822903196959271
+    second: Level_Sprites_283
+  - first:
+      213: 4315520146433011361
+    second: Level_Sprites_284
+  - first:
+      213: 905502673560563606
+    second: Level_Sprites_285
+  - first:
+      213: -1854789151701984301
+    second: Level_Sprites_286
+  - first:
+      213: 5209427951927239757
+    second: Level_Sprites_287
+  - first:
+      213: 2813186453352205026
+    second: Level_Sprites_288
+  - first:
+      213: 3843309489814653958
+    second: Level_Sprites_289
+  - first:
+      213: 3028995393690277305
+    second: Level_Sprites_290
+  - first:
+      213: -6758507604006328599
+    second: Level_Sprites_291
+  - first:
+      213: 3943567002565736748
+    second: Level_Sprites_292
+  - first:
+      213: -2443776411935857059
+    second: Level_Sprites_293
+  - first:
+      213: -2946055934704769835
+    second: Level_Sprites_294
+  - first:
+      213: 518521361258998720
+    second: Level_Sprites_295
+  - first:
+      213: 129748773085118653
+    second: Level_Sprites_296
+  - first:
+      213: -2086694347598048000
+    second: Level_Sprites_297
+  - first:
+      213: 7135990484713893308
+    second: Level_Sprites_298
+  - first:
+      213: -8369141840115829512
+    second: Level_Sprites_299
+  - first:
+      213: -2172202901228952025
+    second: Level_Sprites_300
+  - first:
+      213: -3279881949803154614
+    second: Level_Sprites_301
+  - first:
+      213: -6560269207145766566
+    second: Level_Sprites_302
+  - first:
+      213: 4875973276021088683
+    second: Level_Sprites_303
+  - first:
+      213: 1190178348607609636
+    second: Level_Sprites_304
+  - first:
+      213: -5483239387322796507
+    second: Level_Sprites_305
+  - first:
+      213: -5349040387014673943
+    second: Level_Sprites_306
+  - first:
+      213: 4381613862481314127
+    second: Level_Sprites_307
+  - first:
+      213: -7051889462080439352
+    second: Level_Sprites_308
+  - first:
+      213: 4820875643159796989
+    second: Level_Sprites_309
+  - first:
+      213: -4545477738231502018
+    second: Level_Sprites_310
+  - first:
+      213: -912740971292285230
+    second: Level_Sprites_311
+  - first:
+      213: 3754219973596720759
+    second: Level_Sprites_312
+  - first:
+      213: -8365228979377800300
+    second: Level_Sprites_313
+  - first:
+      213: 176806032030115730
+    second: Level_Sprites_314
+  - first:
+      213: 5766973292595474983
+    second: Level_Sprites_315
+  - first:
+      213: -6621678936029863982
+    second: Level_Sprites_316
+  - first:
+      213: -7580216325623762402
+    second: Level_Sprites_317
+  - first:
+      213: -3130181428913212242
+    second: Level_Sprites_318
+  - first:
+      213: 19714770461131993
+    second: Level_Sprites_319
+  - first:
+      213: 2682249984981633847
+    second: Level_Sprites_320
+  - first:
+      213: 531194184589299783
+    second: Level_Sprites_321
+  - first:
+      213: 6589281562331821346
+    second: Level_Sprites_322
+  - first:
+      213: 4740057956955881846
+    second: Level_Sprites_323
+  - first:
+      213: -4974595720480705847
+    second: Level_Sprites_324
+  - first:
+      213: -6489293908460635036
+    second: Level_Sprites_325
+  - first:
+      213: -2636340664223689964
+    second: Level_Sprites_326
+  - first:
+      213: 7762642891242502297
+    second: Level_Sprites_327
+  - first:
+      213: -6578861472651296082
+    second: Level_Sprites_328
+  - first:
+      213: 8693597437267871126
+    second: Level_Sprites_329
+  - first:
+      213: 5330124692452030088
+    second: Level_Sprites_330
+  - first:
+      213: 5134512035161801734
+    second: Level_Sprites_331
+  - first:
+      213: 8868412740265162138
+    second: Level_Sprites_332
+  - first:
+      213: -5021868562343086816
+    second: Level_Sprites_333
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf692d9e1ebb0570800000000000000
+      internalID: 8434043765876420572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72940f6ac5152d4e0800000000000000
+      internalID: -1958413429573138137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0785f3421e3483c0800000000000000
+      internalID: -4358290291217299700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786aa908816ebf660800000000000000
+      internalID: 7420777803934246535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af74783a731f7df0800000000000000
+      internalID: -180404044417433696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54605e3642c47a00800000000000000
+      internalID: 753440644626670686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8059fbf9537b26010800000000000000
+      internalID: 1180707493265773832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c519688bf5c63ff0800000000000000
+      internalID: -56640261179501115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc45c11967ee0940800000000000000
+      internalID: 5264399452898413778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96353129f684bc4b0800000000000000
+      internalID: -5419158082580950167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a78bba4ec84a99b0800000000000000
+      internalID: -5072661979425175646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5528ce9b349ee0680800000000000000
+      internalID: -8786829345861893547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f99edb605a70ecf0800000000000000
+      internalID: -225045495542801933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21eba5beef43b740800000000000000
+      internalID: 5166561084192842031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0728796b11dfce0800000000000000
+      internalID: -1369919235727134465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3cacc647c3d3580800000000000000
+      internalID: -8845847622346685466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0e1f5662ca1afa0800000000000000
+      internalID: -5791158364902661971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b051b9ad57c590800000000000000
+      internalID: -7654046058287155634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66023af220386ea40800000000000000
+      internalID: 5397145248862511206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1fb47e4668a4930800000000000000
+      internalID: 4128259776373846485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b098b3d5b4ba0bf0800000000000000
+      internalID: -357274527388364617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12345a5b56c4e0710800000000000000
+      internalID: 1661349312269206305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430ef17aeba633a10800000000000000
+      internalID: 1887970035878584372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ba3a039a80db30800000000000000
+      internalID: 4310097207530009309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d714fcc3566c4090800000000000000
+      internalID: -8048945923911051306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be9af7e7e9e1aa50800000000000000
+      internalID: 6530758116902608564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b0eef29807d2a90800000000000000
+      internalID: -7337084483399709860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc527350d82dfa0800000000000000
+      internalID: -5777400318423347419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e82b09a34894f0800000000000000
+      internalID: -821832538679351895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275b2a2a9b4da850800000000000000
+      internalID: 6389846571813132064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f91bc92d3e3acca0800000000000000
+      internalID: -5995911521475290635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6c796b04604a1c0800000000000000
+      internalID: -4493459653197838627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c397134fe0592c50800000000000000
+      internalID: 6640928114087531462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcb94ea8420b3050800000000000000
+      internalID: 5781217057845132505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a19c2b0e3e04cd70800000000000000
+      internalID: 9062384009814512033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb3849d7dc52b990800000000000000
+      internalID: -7371727557918966792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f11812a12985f0800000000000000
+      internalID: -754034482535597717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4108764eea85645f0800000000000000
+      internalID: -772832777867919340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9f0c2d8a9086060800000000000000
+      internalID: 6946813045914008039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff798c3f9a324600800000000000000
+      internalID: 450987368280326137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e843dd5c3484d56f0800000000000000
+      internalID: -694319311625571186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899b0599020ac3450800000000000000
+      internalID: 6069902459660188056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81a1850594d17a40800000000000000
+      internalID: 5364302367682568587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56277d50a59be8220800000000000000
+      internalID: 2490131440278663781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e48f5311b4776c0800000000000000
+      internalID: -4145762394679259580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b04ebd33db0e370800000000000000
+      internalID: 8349881739575036818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e9b71aa2d914740800000000000000
+      internalID: 5134557856602496600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3310371a87bdc0a40800000000000000
+      internalID: 5335880969678422323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760de89a30a929930800000000000000
+      internalID: 4148547547281936487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f70d942dfd6badc0800000000000000
+      internalID: -3626684140908378128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fe7d6fee7fd91c0800000000000000
+      internalID: -4495164247330263201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9563fe55009b9cb00800000000000000
+      internalID: 849413415828928089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21940cb59071f680800000000000000
+      internalID: -8723067214833086164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda67f6682eaacb90800000000000000
+      internalID: -7220767563985753377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7ac1af230dce700800000000000000
+      internalID: 571060170132334532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eaa5c66b21bd7b0800000000000000
+      internalID: -5198540770157875705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062addb07594a5c30800000000000000
+      internalID: 4348869028389692000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9c4d992420db780800000000000000
+      internalID: -8665767622919009867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3940adc155b52f10800000000000000
+      internalID: 2244399352260872511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7cbd75cabb21c70800000000000000
+      internalID: 8940414559166646180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc42704faa587a60800000000000000
+      internalID: 7671981673972649161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1078af8bb72828b80800000000000000
+      internalID: -8394003287569168639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb2a3fbd93add410800000000000000
+      internalID: 1503537748525067186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f19a7b2f82707e0800000000000000
+      internalID: -1799424503182713053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f6c112aed7ad290800000000000000
+      internalID: -7864835354717819063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c868c3d2e4b6fc60800000000000000
+      internalID: 7851661886675773637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f06cebba085dc30800000000000000
+      internalID: 4383551287443459923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129be156f67872cc0800000000000000
+      internalID: -3735868453372905183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575f3666361e28e40800000000000000
+      internalID: 5657331898966603125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528c92caceb756970800000000000000
+      internalID: 8747534107667974181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e654c66f98ec5aee0800000000000000
+      internalID: -1250366229585312402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7c4130a80b27940800000000000000
+      internalID: 5292486618917423092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890a6f61859320810800000000000000
+      internalID: 1730008257368858776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3c5001c63cbcf0800000000000000
+      internalID: -235252877967475891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec3c4d9836405fd0800000000000000
+      internalID: -2355305396143637274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042ac521ddce1df70800000000000000
+      internalID: 9210403147189363264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fefefcaeb7069150800000000000000
+      internalID: 5878894879106334453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881e8ec3c4bb17b70800000000000000
+      internalID: 8895096675147243912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31747ebdccc7cc730800000000000000
+      internalID: 4020725786639550227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be5af9b18c250dc0800000000000000
+      internalID: -3673480985368174920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b98356395f2920800000000000000
+      internalID: 2967688769325087069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc88841a5d8729770800000000000000
+      internalID: 8616081896042432715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0fbd27a50d71500800000000000000
+      internalID: 366990981546635498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a9b12db330d55a0800000000000000
+      internalID: -6531060329154373025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032749a5b0929ed00800000000000000
+      internalID: 1002377520807703088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227c3dc0f807dfb30800000000000000
+      internalID: 4322734977043384098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7933efbcee82ea64dafdafcc58bc7364
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

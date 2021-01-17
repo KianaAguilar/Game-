@@ -1,0 +1,2224 @@
+fileFormatVersion: 2
+guid: a3f091c390650ff46bef91c5d1953106
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5639815093444791707
+    second: Black_Cavern_0
+  - first:
+      213: -1251696322036871672
+    second: Black_Cavern_1
+  - first:
+      213: -5821505812732481769
+    second: Black_Cavern_2
+  - first:
+      213: 628137762280129430
+    second: Black_Cavern_3
+  - first:
+      213: 4642172309896682160
+    second: Black_Cavern_4
+  - first:
+      213: 3327635954839056307
+    second: Black_Cavern_5
+  - first:
+      213: -916928075566159287
+    second: Black_Cavern_6
+  - first:
+      213: -527458197124528813
+    second: Black_Cavern_7
+  - first:
+      213: -1019614559252343863
+    second: Black_Cavern_8
+  - first:
+      213: 3571309065774714951
+    second: Black_Cavern_9
+  - first:
+      213: 7158320064863125804
+    second: Black_Cavern_10
+  - first:
+      213: 3660039949751393928
+    second: Black_Cavern_11
+  - first:
+      213: 6028027836568087695
+    second: Black_Cavern_12
+  - first:
+      213: 4770422098472813522
+    second: Black_Cavern_13
+  - first:
+      213: 7579975677517589627
+    second: Black_Cavern_14
+  - first:
+      213: -2016651303475373587
+    second: Black_Cavern_15
+  - first:
+      213: -6204985084108398148
+    second: Black_Cavern_16
+  - first:
+      213: 2985356480758579787
+    second: Black_Cavern_17
+  - first:
+      213: -6261125848430454983
+    second: Black_Cavern_18
+  - first:
+      213: -8385739372041414426
+    second: Black_Cavern_19
+  - first:
+      213: -4553373213359602006
+    second: Black_Cavern_20
+  - first:
+      213: -2703543070074992074
+    second: Black_Cavern_21
+  - first:
+      213: -1425666135454893674
+    second: Black_Cavern_22
+  - first:
+      213: 5362419204981887576
+    second: Black_Cavern_23
+  - first:
+      213: -6820923670196518657
+    second: Black_Cavern_24
+  - first:
+      213: 8467760756467662557
+    second: Black_Cavern_25
+  - first:
+      213: -362499716528520872
+    second: Black_Cavern_26
+  - first:
+      213: -5299196802952576414
+    second: Black_Cavern_27
+  - first:
+      213: 1455984727114057330
+    second: Black_Cavern_28
+  - first:
+      213: 7946378290733940808
+    second: Black_Cavern_29
+  - first:
+      213: 1388200559448120551
+    second: Black_Cavern_30
+  - first:
+      213: -5912381334728362186
+    second: Black_Cavern_31
+  - first:
+      213: 4902257614371939511
+    second: Black_Cavern_32
+  - first:
+      213: -8119974447767696543
+    second: Black_Cavern_33
+  - first:
+      213: -5512916434162108857
+    second: Black_Cavern_34
+  - first:
+      213: 5020883883660117476
+    second: Black_Cavern_35
+  - first:
+      213: 6932129810388614918
+    second: Black_Cavern_36
+  - first:
+      213: 4170291284934623803
+    second: Black_Cavern_37
+  - first:
+      213: -6441388480627173264
+    second: Black_Cavern_38
+  - first:
+      213: 1741485034717420744
+    second: Black_Cavern_39
+  - first:
+      213: -5106369187255536414
+    second: Black_Cavern_40
+  - first:
+      213: 6827217070728596588
+    second: Black_Cavern_41
+  - first:
+      213: -87483098017357170
+    second: Black_Cavern_42
+  - first:
+      213: 7393312231362279354
+    second: Black_Cavern_43
+  - first:
+      213: -2173245617388447775
+    second: Black_Cavern_44
+  - first:
+      213: -2730031423554200370
+    second: Black_Cavern_45
+  - first:
+      213: 394372423138405097
+    second: Black_Cavern_46
+  - first:
+      213: 1498762853367133729
+    second: Black_Cavern_47
+  - first:
+      213: -7088214460423626422
+    second: Black_Cavern_48
+  - first:
+      213: -1525973323754713970
+    second: Black_Cavern_49
+  - first:
+      213: -2255703382899370268
+    second: Black_Cavern_50
+  - first:
+      213: 230499958232789218
+    second: Black_Cavern_51
+  - first:
+      213: 6970507363211064084
+    second: Black_Cavern_52
+  - first:
+      213: -5887922519698504208
+    second: Black_Cavern_53
+  - first:
+      213: 4427476208534375617
+    second: Black_Cavern_54
+  - first:
+      213: 5761352847842900757
+    second: Black_Cavern_55
+  - first:
+      213: 7534844329792988127
+    second: Black_Cavern_56
+  - first:
+      213: -1858998373572487533
+    second: Black_Cavern_57
+  - first:
+      213: 30863331242472113
+    second: Black_Cavern_58
+  - first:
+      213: -7639319381320182099
+    second: Black_Cavern_59
+  - first:
+      213: 7898191836643099960
+    second: Black_Cavern_60
+  - first:
+      213: -4985479871630728777
+    second: Black_Cavern_61
+  - first:
+      213: -1958267424981737755
+    second: Black_Cavern_62
+  - first:
+      213: 1179465658531873839
+    second: Black_Cavern_63
+  - first:
+      213: -5784779337179210405
+    second: Black_Cavern_64
+  - first:
+      213: -3345075843234414902
+    second: Black_Cavern_65
+  - first:
+      213: 4532988955054769098
+    second: Black_Cavern_66
+  - first:
+      213: 6946762064214581839
+    second: Black_Cavern_67
+  - first:
+      213: 6366681020813704797
+    second: Black_Cavern_68
+  - first:
+      213: -7624227993432221085
+    second: Black_Cavern_69
+  - first:
+      213: 3669378200780075320
+    second: Black_Cavern_70
+  - first:
+      213: -1290778076256278685
+    second: Black_Cavern_71
+  - first:
+      213: 6683009077231240227
+    second: Black_Cavern_72
+  - first:
+      213: 3437359139432563986
+    second: Black_Cavern_73
+  - first:
+      213: 3075345373153745488
+    second: Black_Cavern_74
+  - first:
+      213: -5546895723119294921
+    second: Black_Cavern_75
+  - first:
+      213: 3299566812887566801
+    second: Black_Cavern_76
+  - first:
+      213: -7258733924886362902
+    second: Black_Cavern_77
+  - first:
+      213: 2159385730628428388
+    second: Black_Cavern_78
+  - first:
+      213: -7142399033849318671
+    second: Black_Cavern_79
+  - first:
+      213: 9078400647913074942
+    second: Black_Cavern_80
+  - first:
+      213: -1894074384949378650
+    second: Black_Cavern_81
+  - first:
+      213: 1092780070218281283
+    second: Black_Cavern_82
+  - first:
+      213: 3575915803243125090
+    second: Black_Cavern_83
+  - first:
+      213: 507183106111747576
+    second: Black_Cavern_84
+  - first:
+      213: -5677900823708604693
+    second: Black_Cavern_85
+  - first:
+      213: -7277853166038490525
+    second: Black_Cavern_86
+  - first:
+      213: -3560442818801692608
+    second: Black_Cavern_87
+  - first:
+      213: -5680432871654208168
+    second: Black_Cavern_88
+  - first:
+      213: -1020734204651503597
+    second: Black_Cavern_89
+  - first:
+      213: 513207559286714071
+    second: Black_Cavern_90
+  - first:
+      213: 6436844651286685829
+    second: Black_Cavern_91
+  - first:
+      213: 9063158505182395013
+    second: Black_Cavern_92
+  - first:
+      213: -3921268194784325860
+    second: Black_Cavern_93
+  - first:
+      213: 2067222294415636659
+    second: Black_Cavern_94
+  - first:
+      213: 6241055235688838018
+    second: Black_Cavern_95
+  - first:
+      213: 2896432656419129793
+    second: Black_Cavern_96
+  - first:
+      213: 3305800398901197214
+    second: Black_Cavern_97
+  - first:
+      213: -7686229292982786226
+    second: Black_Cavern_98
+  - first:
+      213: 4076993020932335391
+    second: Black_Cavern_99
+  - first:
+      213: -4685681449718384787
+    second: Black_Cavern_100
+  - first:
+      213: 6729514593893572438
+    second: Black_Cavern_101
+  - first:
+      213: 881086389155190566
+    second: Black_Cavern_102
+  - first:
+      213: -6514847945036742563
+    second: Black_Cavern_103
+  - first:
+      213: 9060049538115113682
+    second: Black_Cavern_104
+  - first:
+      213: -2512904463194443578
+    second: Black_Cavern_105
+  - first:
+      213: 5501380341137579309
+    second: Black_Cavern_106
+  - first:
+      213: 1916591830159400378
+    second: Black_Cavern_107
+  - first:
+      213: -60922533061886051
+    second: Black_Cavern_108
+  - first:
+      213: -1232939039055231365
+    second: Black_Cavern_109
+  - first:
+      213: 3621218806211180402
+    second: Black_Cavern_110
+  - first:
+      213: -4039504378802473294
+    second: Black_Cavern_111
+  - first:
+      213: -2247690965733380738
+    second: Black_Cavern_112
+  - first:
+      213: -5992645020290482151
+    second: Black_Cavern_113
+  - first:
+      213: 6970163451826548046
+    second: Black_Cavern_114
+  - first:
+      213: -6073221703200194466
+    second: Black_Cavern_115
+  - first:
+      213: -178522387737286337
+    second: Black_Cavern_116
+  - first:
+      213: -4810858196829943448
+    second: Black_Cavern_117
+  - first:
+      213: 8967483734416807711
+    second: Black_Cavern_118
+  - first:
+      213: 5227678031806212634
+    second: Black_Cavern_119
+  - first:
+      213: -877726230201652254
+    second: Black_Cavern_120
+  - first:
+      213: -2747445810579944405
+    second: Black_Cavern_121
+  - first:
+      213: 8280125515464580238
+    second: Black_Cavern_122
+  - first:
+      213: 6193604517144865152
+    second: Black_Cavern_123
+  - first:
+      213: 325524097685326305
+    second: Black_Cavern_124
+  - first:
+      213: -419861460649728749
+    second: Black_Cavern_125
+  - first:
+      213: -8672417960268487010
+    second: Black_Cavern_126
+  - first:
+      213: 7292046846164367500
+    second: Black_Cavern_127
+  - first:
+      213: 1107445657462154684
+    second: Black_Cavern_128
+  - first:
+      213: 8102126311866429200
+    second: Black_Cavern_129
+  - first:
+      213: -8576019781776594629
+    second: Black_Cavern_130
+  - first:
+      213: -8535365355636657357
+    second: Black_Cavern_131
+  - first:
+      213: -4630763763808403097
+    second: Black_Cavern_132
+  - first:
+      213: -8764768649334337142
+    second: Black_Cavern_133
+  - first:
+      213: -8978046175811534109
+    second: Black_Cavern_134
+  - first:
+      213: 1880210018772989121
+    second: Black_Cavern_135
+  - first:
+      213: 6693444873938892129
+    second: Black_Cavern_136
+  - first:
+      213: -7064865357031043396
+    second: Black_Cavern_137
+  - first:
+      213: -6266957347910231122
+    second: Black_Cavern_138
+  - first:
+      213: 5861481657608154981
+    second: Black_Cavern_139
+  - first:
+      213: -6650054431501581494
+    second: Black_Cavern_140
+  - first:
+      213: -5303296279204839440
+    second: Black_Cavern_141
+  - first:
+      213: 3310644144310009388
+    second: Black_Cavern_142
+  - first:
+      213: -6608355544930057028
+    second: Black_Cavern_143
+  - first:
+      213: -7719535754006505765
+    second: Black_Cavern_144
+  - first:
+      213: 4921796581844849159
+    second: Black_Cavern_145
+  - first:
+      213: 8982531422247845276
+    second: Black_Cavern_146
+  - first:
+      213: 3492451011562728387
+    second: Black_Cavern_147
+  - first:
+      213: 5026620492203458741
+    second: Black_Cavern_148
+  - first:
+      213: -723015802636388703
+    second: Black_Cavern_149
+  - first:
+      213: 4426979068484323387
+    second: Black_Cavern_150
+  - first:
+      213: -7829103314202347604
+    second: Black_Cavern_151
+  - first:
+      213: 3810094446639575479
+    second: Black_Cavern_152
+  - first:
+      213: 4605850658940172163
+    second: Black_Cavern_153
+  - first:
+      213: 6727473981692717759
+    second: Black_Cavern_154
+  - first:
+      213: 1131416735604340558
+    second: Black_Cavern_155
+  - first:
+      213: -1660807947580099972
+    second: Black_Cavern_156
+  - first:
+      213: 1077018164722340895
+    second: Black_Cavern_157
+  - first:
+      213: 5824756083170760362
+    second: Black_Cavern_158
+  - first:
+      213: -3326790951884265372
+    second: Black_Cavern_159
+  - first:
+      213: 5757067422624334956
+    second: Black_Cavern_160
+  - first:
+      213: 7577338382532837539
+    second: Black_Cavern_161
+  - first:
+      213: 8653680329696773141
+    second: Black_Cavern_162
+  - first:
+      213: 2095148563915969211
+    second: Black_Cavern_163
+  - first:
+      213: -6391838194744750559
+    second: Black_Cavern_164
+  - first:
+      213: -8750079688986387830
+    second: Black_Cavern_165
+  - first:
+      213: 8801299970736695171
+    second: Black_Cavern_166
+  - first:
+      213: -8360452003505174205
+    second: Black_Cavern_167
+  - first:
+      213: 8088669434182194055
+    second: Black_Cavern_168
+  - first:
+      213: 4447223017583512120
+    second: Black_Cavern_169
+  - first:
+      213: -2728986301805312380
+    second: Black_Cavern_170
+  - first:
+      213: 4294706207179285846
+    second: Black_Cavern_171
+  - first:
+      213: -1612644759734240795
+    second: Black_Cavern_172
+  - first:
+      213: 3721744010293801256
+    second: Black_Cavern_173
+  - first:
+      213: -8940370146148209085
+    second: Black_Cavern_174
+  - first:
+      213: 8011394606278964252
+    second: Black_Cavern_175
+  - first:
+      213: 9001424895531992254
+    second: Black_Cavern_176
+  - first:
+      213: 5041288503383452578
+    second: Black_Cavern_177
+  - first:
+      213: 6459011374962748428
+    second: Black_Cavern_178
+  - first:
+      213: 3447175852474585517
+    second: Black_Cavern_179
+  - first:
+      213: -8414916104758725151
+    second: Black_Cavern_180
+  - first:
+      213: -3682804034855681870
+    second: Black_Cavern_181
+  - first:
+      213: -3307088442020513457
+    second: Black_Cavern_182
+  - first:
+      213: 1825297729980061173
+    second: Black_Cavern_183
+  - first:
+      213: -2864076917041435765
+    second: Black_Cavern_184
+  - first:
+      213: 8087127194849190407
+    second: Black_Cavern_185
+  - first:
+      213: -7136622900996628499
+    second: Black_Cavern_186
+  - first:
+      213: -1821247499159482369
+    second: Black_Cavern_187
+  - first:
+      213: 1668615949861621484
+    second: Black_Cavern_188
+  - first:
+      213: 4448078168604738
+    second: Black_Cavern_189
+  - first:
+      213: 8846593326983059923
+    second: Black_Cavern_190
+  - first:
+      213: 3547900382193064206
+    second: Black_Cavern_191
+  - first:
+      213: 1244874191521790564
+    second: Black_Cavern_192
+  - first:
+      213: 2904367856347429944
+    second: Black_Cavern_193
+  - first:
+      213: -1753259381350837929
+    second: Black_Cavern_194
+  - first:
+      213: 4621818913155828282
+    second: Black_Cavern_195
+  - first:
+      213: 3167989857864276716
+    second: Black_Cavern_196
+  - first:
+      213: 5490613514991512917
+    second: Black_Cavern_197
+  - first:
+      213: 7449683157349610777
+    second: Black_Cavern_198
+  - first:
+      213: -8959371969372506902
+    second: Black_Cavern_199
+  - first:
+      213: -5749425976232403458
+    second: Black_Cavern_200
+  - first:
+      213: -262983265064473983
+    second: Black_Cavern_201
+  - first:
+      213: 3326721762275257349
+    second: Black_Cavern_202
+  - first:
+      213: -2165288031944953358
+    second: Black_Cavern_203
+  - first:
+      213: 512406745006301017
+    second: Black_Cavern_204
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_Cavern_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dc9ab42f5a44e40800000000000000
+      internalID: 5639815093444791707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 914
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e445ea3d411aee0800000000000000
+      internalID: -1251696322036871672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 914
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f65369e4bd53fa0800000000000000
+      internalID: -5821505812732481769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 914
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69347be77f797b800800000000000000
+      internalID: 628137762280129430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 914
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0badb8dde1f4c6040800000000000000
+      internalID: 4642172309896682160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 914
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfeff535432e2e20800000000000000
+      internalID: 3327635954839056307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 914
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aeb4bf5ca6643f0800000000000000
+      internalID: -916928075566159287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_7
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 914
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355468670971ea8f0800000000000000
+      internalID: -527458197124528813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_8
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 914
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c392f3e5f999d1f0800000000000000
+      internalID: -1019614559252343863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74052a87ca6df8130800000000000000
+      internalID: 3571309065774714951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 804
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21c7be2c26775360800000000000000
+      internalID: 7158320064863125804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 804
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e9bac41f21bc230800000000000000
+      internalID: 3660039949751393928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 804
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8caec6216bd7a350800000000000000
+      internalID: 6028027836568087695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 804
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34520bf91f33240800000000000000
+      internalID: 4770422098472813522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 804
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c6980e7bb713960800000000000000
+      internalID: 7579975677517589627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 804
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9958cf25a6304e0800000000000000
+      internalID: -2016651303475373587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 804
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb12f1101f673e9a0800000000000000
+      internalID: -6204985084108398148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_17
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 804
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428683f6ed1e6920800000000000000
+      internalID: 2985356480758579787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9375946b6330c19a0800000000000000
+      internalID: -6261125848430454983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 694
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8d67e787edf9b80800000000000000
+      internalID: -8385739372041414426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 694
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa60cefef2b2fc0c0800000000000000
+      internalID: -4553373213359602006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 694
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a0639d6e51b7ad0800000000000000
+      internalID: -2703543070074992074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_22
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 694
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69938eb0434073ce0800000000000000
+      internalID: -1425666135454893674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 694
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8529da90bd32b6a40800000000000000
+      internalID: 5362419204981887576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_24
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 694
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff002ed8f063751a0800000000000000
+      internalID: -6820923670196518657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_25
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 694
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde7f3c3b87838570800000000000000
+      internalID: 8467760756467662557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851432dad6428faf0800000000000000
+      internalID: -362499716528520872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 584
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262402585987576b0800000000000000
+      internalID: -5299196802952576414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 584
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276070a2562b43410800000000000000
+      internalID: 1455984727114057330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_29
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 584
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840821624f4374e60800000000000000
+      internalID: 7946378290733940808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 584
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec57e6cd01e34310800000000000000
+      internalID: 1388200559448120551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_31
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 584
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637bdde408003fda0800000000000000
+      internalID: -5912381334728362186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_32
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 584
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e716b351580440800000000000000
+      internalID: 4902257614371939511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 584
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bce8fd24e005f80800000000000000
+      internalID: -8119974447767696543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746ba5936bf2e73b0800000000000000
+      internalID: -5512916434162108857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 474
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e58b085a43cda540800000000000000
+      internalID: 5020883883660117476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 474
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ffb15a55fd33060800000000000000
+      internalID: 6932129810388614918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 474
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b328f6814d9dfd930800000000000000
+      internalID: 4170291284934623803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_38
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 474
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0789ce70e479b96a0800000000000000
+      internalID: -6441388480627173264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_39
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 474
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9dfb896ffa2810800000000000000
+      internalID: 1741485034717420744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_40
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 474
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e432a567488229b0800000000000000
+      internalID: -5106369187255536414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_41
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 474
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cc241f0c52fbe50800000000000000
+      internalID: 6827217070728596588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8223daf59239cef0800000000000000
+      internalID: -87483098017357170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 364
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab736ef8d425a9660800000000000000
+      internalID: 7393312231362279354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_44
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 364
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e713e510a417d1e0800000000000000
+      internalID: -2173245617388447775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_45
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 364
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccd56572eafc1ad0800000000000000
+      internalID: -2730031423554200370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_46
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 364
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaef5e11a7197500800000000000000
+      internalID: 394372423138405097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126bf75dfdcacc410800000000000000
+      internalID: 1498762853367133729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_48
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 254
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41a9a2d08a91ad90800000000000000
+      internalID: -7088214460423626422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_49
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 254
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cc0e4d857a2dae0800000000000000
+      internalID: -1525973323754713970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_50
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 254
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6d2a779b122b0e0800000000000000
+      internalID: -2255703382899370268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_51
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 254
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e03533ad76e23300800000000000000
+      internalID: 230499958232789218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_52
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 254
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b078f3873cb060800000000000000
+      internalID: 6970507363211064084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f50954f9a5e94ea0800000000000000
+      internalID: -5887922519698504208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 144
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc4f25672e817d30800000000000000
+      internalID: 4427476208534375617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 144
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b7c51e3ef64ff40800000000000000
+      internalID: 5761352847842900757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_56
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 144
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36d232ff4219860800000000000000
+      internalID: 7534844329792988127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 144
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396de2124d28336e0800000000000000
+      internalID: -1858998373572487533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_58
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 144
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2fa474906ad6000800000000000000
+      internalID: 30863331242472113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_59
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 144
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da657ae5f7fabf590800000000000000
+      internalID: -7639319381320182099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_60
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 144
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835800701a30c9d60800000000000000
+      internalID: 7898191836643099960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_61
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 144
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b12790987400dab0800000000000000
+      internalID: -4985479871630728777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee9ebef626d2d4e0800000000000000
+      internalID: -1958267424981737755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_63
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 34
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24809174cd4e5010800000000000000
+      internalID: 1179465658531873839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 34
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dd96787d558bfa0800000000000000
+      internalID: -5784779337179210405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 34
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb5495e37e391d0800000000000000
+      internalID: -3345075843234414902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_66
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 34
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac30fc4107968ee30800000000000000
+      internalID: 4532988955054769098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_67
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 34
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f426ba8ba4bd76060800000000000000
+      internalID: 6946762064214581839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_68
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 34
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e72d308aefa5850800000000000000
+      internalID: 6366681020813704797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_69
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 34
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a12ece80d413690800000000000000
+      internalID: -7624227993432221085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Cavern_70
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 34
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831fe0c48004ce230800000000000000
+      internalID: 3669378200780075320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 67e840ef75f0ab646aaa212174569623
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
